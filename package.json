@@ -1,0 +1,31 @@
+{
+  "name": "mamba-wms",
+  "version": "1.0.0",
+  "description": "Mamba's Work Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mamba5681",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "axios": "^1.2.1",
+    "body-parser": "^1.20.0",
+    "chalk": "^4.1.1",
+    "connect-flash": "^0.1.1",
+    "discord.js": "^14.7.1",
+    "easycompile": "^1.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-passport-logout": "^0.1.0",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.0",
+    "passport": "^0.5.2",
+    "passport-discord-faxes": "^0.1.4",
+    "req-flash": "^0.0.3"
+  }
+}
