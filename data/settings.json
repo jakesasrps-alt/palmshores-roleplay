@@ -1,0 +1,22 @@
+{
+    "ServerName": "Palm Shores Roleplay",
+    "ServerDesc": "Welcome to Palm Shores Roleplay, a vMenu/DOJ-based server offering immersive roleplay experiences! Join a close-knit community with custom resources and scripts, and explore roles in departments like Staff, BCSO, and SAST. Our transparent ranking system ensures fair growth, and your feedback helps shape the server. Become part of our dynamic, welcoming community today!", 
+    "Color": "#a71ce8",
+    "GuildId": "1494460630726344704",
+    "LogChannelID": "1494460631506747402",
+    "DiscordInv": "https://discord.gg/psrp5m",
+    "StoreURL": "https://psrp5m.tip4serv.com/",
+    "RulesLink": "https://discord.com/channels/1494460630726344704/1494460631506747409",
+    "In-Game Ban": {
+        "reviewer": "1184926862451941493"
+    },
+    "Anti-Cheat Ban": {
+        "reviewer": "1184926862451941493"
+    },
+    "Global Ban": {
+        "reviewer": "1241076034338689157"
+    },
+    "Blacklist": {
+        "reviewer": "1184926862451941493"
+    }
+}

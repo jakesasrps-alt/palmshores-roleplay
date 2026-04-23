@@ -1,0 +1,3125 @@
+{
+    "In-Game Ban": {
+        "info": {
+            "name": "In-Game Ban",
+            "icon": "<i class=\"fa-solid fa-database\"></i>",
+            "shortDesc": "Appeal an in-game ban."
+        },
+        "questions": [
+            "What Is Your Steam URL?",
+            "Staff Member Who Issued Your Ban.",
+            "What Type of Ban Was Issued? (VDM, RDM, FRP, Staff Diss, Cheating, etc.)",
+            "What Date Were You Banned?",
+            "Why Were You Banned?",
+            "Did You Commit the Offense You Were Banned For?",
+            "Why Should The Punishment Be Removed. Please Include Any Evidence You Have."
+        ],
+        "descriptions": [
+            "",
+            "",
+            "",
+            "",
+            "50 Word Minimum",
+            "",
+            ""
+        ],
+        "responses": {
+            "luw3a1bsa5moi": {
+                "user": "hsgkey",
+                "date": "4/12/2024, 3:09:00 AM",
+                "status": "Accepted",
+                "discord": "456322161343332362",
+                "customId": "luw3a1bsa5moi",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199471617856/",
+                    "1": "259 nezee j ",
+                    "2": "racist ",
+                    "3": "4/10/23",
+                    "4": "bc i said hard r not on purpose i had open mic on ",
+                    "5": "yes ",
+                    "6": "it wasnt on purpose i was talking to my friends in dc an said it in game i fucked up said i was sorry an didnt mean to say it "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi.",
+                    "reviewerDiscord": "383621626652262404",
+                    "reviewedOn": "4/12/2024, 3:33:01 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lva52vbvmsao0": {
+                "user": "r3t3",
+                "date": "4/21/2024, 11:08:12 PM",
+                "status": "Denied",
+                "discord": "1167557090429124618",
+                "customId": "lva52vbvmsao0",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/hoodier6/",
+                    "1": "Febnty? It doesnt say anything he has custom color name so",
+                    "2": "Racism? ",
+                    "3": "4/21/2024",
+                    "4": "Hard R",
+                    "5": "Yes.",
+                    "6": "I just joined SASRP today, I barley had 10 mins played on it and I got in trouble for saying the Hard R, I am a person of color and I came from a server that allowed the HARD R to be used, I would genially not use it because I know how offensive it may be to fellow people of color. It is no excuse for me saying it, and I did not know it was against the server rules as I only skimmed through them and did not read them a lot. I am very sorry and if I can have a second chance I would really appreciate it"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slaysrust",
+                    "reviewerDiscord": "505470787902373899",
+                    "reviewedOn": "4/21/2024, 11:15:06 PM",
+                    "reason": "Denied "
+                }
+            },
+            "lvd3r2q1tv59v": {
+                "user": "dino123bino",
+                "date": "4/24/2024, 12:54:20 AM",
+                "status": "Denied",
+                "discord": "1066986249644150895",
+                "customId": "lvd3r2q1tv59v",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/i_will_steal_your_ip/",
+                    "1": "~r~ 2X-11 | C. Ford",
+                    "2": "server diss",
+                    "3": "4/24",
+                    "4": "staff diss i said \"fuck this server everybody is fear rp\" which was cus everybody refused orders when having a gun pointed at them i did to like 7 people all of them either shoot me or ran away which is breaking fear rp. also i didnt even mean it like against the server i meant against the community because the community just keeps breaking the same rule which if ofc fear rp the moderation is not that helpfull when i dont have a clip either this was my first punishment except for a 300 month staff jail ",
+                    "5": "yes kinda",
+                    "6": "because it was just against a lot of people who broke the same rule"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi_.",
+                    "reviewerDiscord": "1124834999703720096",
+                    "reviewedOn": "4/24/2024, 3:46:43 PM",
+                    "reason": "Punishment Guidelines followed - No wrongful ban | Appeals to reduce time only available to bans of 7 days or more"
+                }
+            },
+            "lve857ov4pbjg": {
+                "user": "r3t3",
+                "date": "4/24/2024, 7:45:05 PM",
+                "status": "Denied",
+                "discord": "1167557090429124618",
+                "customId": "lve857ov4pbjg",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/hoodier6/",
+                    "1": "Fenty ",
+                    "2": "Racism",
+                    "3": "4/21/2024",
+                    "4": "I was banned during RP scene when I accidentally slipped and called someone the N-word I was banned by Fenty For N-word usage",
+                    "5": "Yes",
+                    "6": "This punishment should be removed because it was first day In the server, matter of fact, I would say less than 30 minutes. I have of play time on the server. Before I joined, I came from a server that allowed the N-word usage if you are person of color, As a person of color I was using the word in that server and accidentally slipped up when playing in San Andreas State role-play I understand that the N-word should not be said by anybody because it is a very offensive word to be thrown around, but on the server, I really enjoyed my time and I feel like I can go far in the server, I would really like another chance. Thank you sincerely, Gabe S."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "f.enty",
+                    "reviewerDiscord": "1183872941025398824",
+                    "reviewedOn": "4/25/2024, 3:30:24 AM",
+                    "reason": "Usage of Hard-R, No real Roleplay whilst in server, NITRP, VDM, RDM, FRP"
+                }
+            },
+            "lvfidmq765ujy": {
+                "user": "assaultzzzzzzzz",
+                "date": "4/25/2024, 5:19:20 PM",
+                "status": "Accepted",
+                "discord": "958505090631749642",
+                "customId": "lvfidmq765ujy",
+                "responses": {
+                    "0": "76561199371616293",
+                    "1": "harvery",
+                    "2": "modding",
+                    "3": "4/25/24",
+                    "4": "I was banned for modding when i wasnt even modding he thought i was but i was not.",
+                    "5": "No i did not i should be unbanned from the discord and the real game cause i was banned for no reason what so ever",
+                    "6": "Because i have done nothing wrong "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi.",
+                    "reviewerDiscord": "383621626652262404",
+                    "reviewedOn": "4/26/2024, 2:35:18 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lvg5e5nmdjxxe": {
+                "user": "charlesoliverafan",
+                "date": "4/26/2024, 4:03:35 AM",
+                "status": "Denied",
+                "discord": "698379939170222111",
+                "customId": "lvg5e5nmdjxxe",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/joemama420blazeit6969/",
+                    "1": "Wallie",
+                    "2": "RDM, No intent to RP",
+                    "3": "4/26/23",
+                    "4": "RDM, No intent to RP",
+                    "5": "No",
+                    "6": "so I have been hanging around the sandy shores barber shop all day, Wallie and makarov roll up, makarov never gets out the car and wallie does, he starts aiming a gun at me and since im under fear RP i put my hands up and walk away telling him to calm down, as im doing so he gets in the car and drives away, while driving away he shoots me in my leg and i fall over, (I did not die), I go and get in my car after a minute and start looking for there charger, I find it and I see the guy who shot me in the leg pointing a gun at some dude, I shoot him in the head (I did not shoot makarov in his head as the cars tinted windows were so dark i could not see inside, so it would be meta gaming if i shot him), Instantly after killing wallie I got shot and killed by makarov, after my respawn timer is over i respawn so i can help Tim film some DPS promo videos, right as i do so I get banned for Nitrp and RDM"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "f.enty",
+                    "reviewerDiscord": "1183872941025398824",
+                    "reviewedOn": "4/26/2024, 3:45:37 PM",
+                    "reason": "Ban Expires Today, Wait it out"
+                }
+            },
+            "lvlo3zqx2kk5a": {
+                "user": "assaultzzzzzzzz",
+                "date": "4/30/2024, 12:46:25 AM",
+                "status": "Denied",
+                "discord": "958505090631749642",
+                "customId": "lvlo3zqx2kk5a",
+                "responses": {
+                    "0": "76561199371616293",
+                    "1": "Jamal",
+                    "2": "Rasict",
+                    "3": "4/29/24",
+                    "4": "Saying no more blacks. ",
+                    "5": "yea but im very sorry for saying it.",
+                    "6": "Because I really like this server and I shouldnt have said what i said cause it was messed up."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi_.",
+                    "reviewerDiscord": "1124834999703720096",
+                    "reviewedOn": "4/30/2024, 12:07:16 PM",
+                    "reason": "Racism is never allowed."
+                }
+            },
+            "lvssgq3xy0smv": {
+                "user": "maniac1967",
+                "date": "5/5/2024, 12:22:40 AM",
+                "status": "Denied",
+                "discord": "339909315119022080",
+                "customId": "lvssgq3xy0smv",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/PickleTim/",
+                    "1": "302 ghost",
+                    "2": "f slur",
+                    "3": "05/03/2024",
+                    "4": "The staff member thought I said the f - slur and i actually said maggot",
+                    "5": "No",
+                    "6": "I said maggot, if you review the clip and context i clearly said maggot not the f slur. I staff in another server im not dumb enough to say that word."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "kushkustoms",
+                    "reviewerDiscord": "1104125628384559106",
+                    "reviewedOn": "6/1/2024, 8:41:55 PM",
+                    "reason": "You Said The F Slur I Reviewed The Clip Multiple Times I Am Very Sorry"
+                }
+            },
+            "lvu9erbvjt7ti": {
+                "user": "bigdickdov",
+                "date": "5/6/2024, 1:04:48 AM",
+                "status": "Denied",
+                "discord": "1025907808555782194",
+                "customId": "lvu9erbvjt7ti",
+                "responses": {
+                    "0": "IAMCOOL123",
+                    "1": "`~r~ Kaz`",
+                    "2": "Diss",
+                    "3": "2024-05-05",
+                    "4": "For saying the N word. (im black)",
+                    "5": "Yes I did not say hard r though I just have an accent",
+                    "6": "I didnt say hard r and Im black I can show my skin on a call (i do have an accent to so it may sound like i said it"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:17:16 AM",
+                    "reason": "Awnser Question Incorrectly"
+                }
+            },
+            "lwf97znw0wunz": {
+                "user": "8paco8",
+                "date": "5/20/2024, 5:42:42 PM",
+                "status": "Accepted",
+                "discord": "837507497564700763",
+                "customId": "lwf97znw0wunz",
+                "responses": {
+                    "0": "76561199163406532",
+                    "1": "`~r~ Trent T`",
+                    "2": "etc",
+                    "3": "idk bc it doesnt show wen",
+                    "4": "hard r",
+                    "5": "no my friend said the hard r wen i was on the phone with him and i was talking to myfriend and the staff thought it was me",
+                    "6": "bc it was my friend on the phoe who said the hard r"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/21/2024, 10:42:37 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lwwlezj8wzsen": {
+                "user": "systems.limited.dev",
+                "date": "6/1/2024, 8:56:09 PM",
+                "status": "Accepted",
+                "discord": "792101185959886908",
+                "customId": "lwwlezj8wzsen",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199122162295/",
+                    "1": "Wall-E",
+                    "2": "sexual rp",
+                    "3": "01/05/2024",
+                    "4": "so i was with my cartel friends on as gang cord and we went to a hot dog place so after arriving to a hot tog place we had a massive shoot out with police and then killed them all so we felt a bit hungary and went to the hotdog stand and i was asking for a hot dog and he said go away before i ban you for trolling and i was trolling how is asking for a hot dog trolling so then me and my mates was laughing so then i did /e hump and while doing that he jailed me for humping someone and he said if you do it again it will be a ban and then he came to jail and started pushing it in my face saying your  not gonna get unjail and i said how is humping someone''s leg a sexual rp if dogs do it sexual is a intercorse between for bits of the male and female body and creates a intercorse so no way as humping someone's leg is a ban",
+                    "5": "no",
+                    "6": "because i did not break no rules and also shoved me getting put in jail in my face "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:23:14 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lx23emjnaffs8": {
+                "user": "momba_98",
+                "date": "6/5/2024, 6:18:36 PM",
+                "status": "Denied",
+                "discord": "293799444833632256",
+                "customId": "lx23emjnaffs8",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/ryze_upz/          -----         Is this what you mean?",
+                    "1": "Im not sure.",
+                    "2": "Language",
+                    "3": "6/4/2024",
+                    "4": "Saying the \"N-word\"",
+                    "5": "Honestly i dont think i did. And IF i did i didnt say it to anyone but my friend we are both black irl and its just how we talk. ",
+                    "6": "In my opinion, the ban should be removed because if i did say it it was to my buddy, i would never disrespect anyone like that by saying the n-word in and offensive way."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:24:56 AM",
+                    "reason": "Awnser Question Incorrectly"
+                }
+            },
+            "lxnmxo0agqgoo": {
+                "user": "d0pg69",
+                "date": "6/20/2024, 7:08:27 PM",
+                "status": "Denied",
+                "discord": "1229048991321423977",
+                "customId": "lxnmxo0agqgoo",
+                "responses": {
+                    "0": "idk",
+                    "1": "soar",
+                    "2": "reason was lol",
+                    "3": "18.06.2024",
+                    "4": "lol",
+                    "5": "idk what lol means",
+                    "6": "cause i wanna get high and play gta  without any frp"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/21/2024, 10:34:38 PM",
+                    "reason": ""
+                }
+            },
+            "lxqs22pn6n2e1": {
+                "user": "crackhead7912",
+                "date": "6/22/2024, 11:55:09 PM",
+                "status": "Denied",
+                "discord": "1057770048632143893",
+                "customId": "lxqs22pn6n2e1",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199483624045/",
+                    "1": "Not sure was'nt approached by an admin",
+                    "2": "FRP",
+                    "3": "june 22 2024",
+                    "4": "I retaliated after a brother of mine was ran over",
+                    "5": "Yes, I retaliated a fallen friend",
+                    "6": "I was looking to continue the hostile RP did not think it would result in ban"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:03:23 AM",
+                    "reason": "Answer Questions Incorrect "
+                }
+            },
+            "lxqwd74g4x8uk": {
+                "user": "dyno07",
+                "date": "6/23/2024, 1:55:47 AM",
+                "status": "Accepted",
+                "discord": "761651322658488320",
+                "customId": "lxqwd74g4x8uk",
+                "responses": {
+                    "0": "https://s.team/p/wnq-cjgb/BMJHGRNM",
+                    "1": "Jay T",
+                    "2": "RDM",
+                    "3": "23/06/24",
+                    "4": "me and my friends were shot at so we shot back and killed them and then got banned for RDM",
+                    "5": "No i started shooting when i was shot at but i am not sure wether mine or their side started it",
+                    "6": "the people we were shooting at had shot at us previously but did not kill us so we went for our get back and therefore was not RDM, plus we were shot at first and that is why i shot back."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:14:56 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lxqwpb4uglth6": {
+                "user": "dogson1999",
+                "date": "6/23/2024, 2:05:12 AM",
+                "status": "Denied",
+                "discord": "362802725890818049",
+                "customId": "lxqwpb4uglth6",
+                "responses": {
+                    "0": "466071129",
+                    "1": "yyenvo",
+                    "2": "Mass RDM",
+                    "3": "2024-06-22",
+                    "4": "We killed two people after our vehicle was shot at",
+                    "5": "No ",
+                    "6": "Because we've been roleplaying all night and only shot back because we got shot at first"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:16:22 AM",
+                    "reason": "Answer Question Incorrectly"
+                }
+            },
+            "lxwulws2e9wqv": {
+                "user": "berrryyy.1",
+                "date": "6/27/2024, 5:53:11 AM",
+                "status": "Denied",
+                "discord": "527533064667136023",
+                "customId": "lxwulws2e9wqv",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199220890899/",
+                    "1": "! 167 | 1L-02 | CIA-166 | John.N",
+                    "2": "Modding",
+                    "3": "6/27/2024",
+                    "4": "modding",
+                    "5": "no",
+                    "6": "they banned me because I was screen sharing and my gun would shoot fast, its because I have a animation that makes it look for me ONLY that my gun shoots fast."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "6/27/2024, 4:14:49 PM",
+                    "reason": "DM mountain001 and we can talk more about this."
+                }
+            },
+            "ly4wyp0fvgqwr": {
+                "user": "_.kalvin_",
+                "date": "7/2/2024, 9:21:16 PM",
+                "status": "Accepted",
+                "discord": "979905420246257694",
+                "customId": "ly4wyp0fvgqwr",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561198824521788/",
+                    "1": "Cheif 4 -matt matt",
+                    "2": "HACK?",
+                    "3": "I have no xlu",
+                    "4": "I have actually no clue, I came back and loaded back into the server realising i was banned for \"hack\" which i have never been banned for. It must be a false ban. ",
+                    "5": "No, of course not. ",
+                    "6": "I do not have any proof at all. I was banned for hack and i realised it today to be honest with you, because i shut down my pc and dont really play for days than when i joined back i saw i was banned."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "sasroleplay",
+                    "reviewerDiscord": "813462995858489404",
+                    "reviewedOn": "7/3/2024, 1:22:04 AM",
+                    "reason": "n/a"
+                }
+            },
+            "ly54veobmwo2r": {
+                "user": "thatmfp3tr",
+                "date": "7/3/2024, 1:02:40 AM",
+                "status": "Accepted",
+                "discord": "1093286980357464154",
+                "customId": "ly54veobmwo2r",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199229872262/",
+                    "1": "~g~ 1W-01 | ~b~ Manny F.",
+                    "2": "Mass VDM during Staff Sit",
+                    "3": "7/1",
+                    "4": "Mass VDM.",
+                    "5": "No, I was a passenger in a vehicle that hit staff, but I wasn't driving so I couldn't control what the driver was doing. ",
+                    "6": "So, I was falsely banned as I wasn't the driver of the veichle I was on the Right-side as the passenger. And i was a staff member previously before the ban and now i losted that due to something i didnt do."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "sasroleplay",
+                    "reviewerDiscord": "813462995858489404",
+                    "reviewedOn": "7/3/2024, 1:22:18 AM",
+                    "reason": "n/a"
+                }
+            },
+            "ly5a25xif32l6": {
+                "user": "bananaboi4873",
+                "date": "7/3/2024, 3:27:53 AM",
+                "status": "Accepted",
+                "discord": "1123270537926414467",
+                "customId": "ly5a25xif32l6",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/73699/",
+                    "1": "Mean Rico",
+                    "2": "Cheating",
+                    "3": "7/2/2024",
+                    "4": "Cheating, but I wasnt the modder. I was dead on the ground and there was alot of explosions though.",
+                    "5": "Hell no. I wish I knew how to mod fivem, that would be so cool",
+                    "6": "It should be removed, because I didn't do anything, and it was a false ban. "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "9000",
+                    "reviewerDiscord": "232937189971984394",
+                    "reviewedOn": "7/3/2024, 8:24:01 AM",
+                    "reason": "n/a"
+                }
+            },
+            "ly5acs5eob580": {
+                "user": "razvetx",
+                "date": "7/3/2024, 3:36:08 AM",
+                "status": "Denied",
+                "discord": "1164955962998804623",
+                "customId": "ly5acs5eob580",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199241716711/",
+                    "1": "mynameisanderdingus (Mean Rico)",
+                    "2": "Staff Dis",
+                    "3": "7/2/24",
+                    "4": "For calling a admin a retard.",
+                    "5": "No, I never even called him a retard. (waiting to ",
+                    "6": "Alright so i was calling staff for someone shooting the dead and making death threats and stuff and then rico shows up and then the guy makes a lie how i was talking while dead even though it was a staff scene which makes all RP pause until told to contuine so i was talking then the admin accused me of calling the admin a retard when i never even said the word to the admin and prevouisly when the guy killed me i was calling a retard but that was when no staff was near and now hes banned me for a day and when he was abt to ban me a SR.ADMIN said to wait and me banned me instend."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "9000",
+                    "reviewerDiscord": "232937189971984394",
+                    "reviewedOn": "7/3/2024, 8:30:19 AM",
+                    "reason": "You literally said it while on a staff sit."
+                }
+            },
+            "ly5acx4wistxl": {
+                "user": "razvetx",
+                "date": "7/3/2024, 3:36:15 AM",
+                "status": "Denied",
+                "discord": "1164955962998804623",
+                "customId": "ly5acx4wistxl",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199241716711/",
+                    "1": "mynameisanderdingus (Mean Rico)",
+                    "2": "Staff Dis",
+                    "3": "7/2/24",
+                    "4": "For calling a admin a retard.",
+                    "5": "No, I never even called him a retard. (waiting to \"\" clip\"\"",
+                    "6": "Alright so i was calling staff for someone shooting the dead and making death threats and stuff and then rico shows up and then the guy makes a lie how i was talking while dead even though it was a staff scene which makes all RP pause until told to contuine so i was talking then the admin accused me of calling the admin a retard when i never even said the word to the admin and prevouisly when the guy killed me i was calling a retard but that was when no staff was near and now hes banned me for a day and when he was abt to ban me a SR.ADMIN said to wait and me banned me instend."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "9000",
+                    "reviewerDiscord": "232937189971984394",
+                    "reviewedOn": "7/3/2024, 8:30:43 AM",
+                    "reason": "You literally said it while on a staff sit."
+                }
+            },
+            "ly5gdnjymx84m": {
+                "user": "ofcdrip",
+                "date": "7/3/2024, 6:24:47 AM",
+                "status": "Denied",
+                "discord": "848045166254227466",
+                "customId": "ly5gdnjymx84m",
+                "responses": {
+                    "0": "BILLY BOB",
+                    "1": "Yes69420",
+                    "2": "\"Harrasment and bullying\"",
+                    "3": "7/3/2024",
+                    "4": "Why was I banned? I called a person of the LGBTQ community a transformer. I don/t know what to call a people like that I dont wanna miss gender it so i call it an transformer bc i thought it was the same as transgender. it /SHE/HE got very mad talked about my mom (i have proof) then reported me then other people call it /he/she a transformer but they walk free (i have proof) I honestly think this is BIG missunderstanding. ",
+                    "5": "Yes. I did not know that was an \"homophobic slur\"",
+                    "6": "Why Should The Punishment Be Removed ? Like i said previously I did not know that was an \"homophobic slur\" I did not mean no harm i was just saying what i thought meant transgender, Im sorry for my actions i learn from this and i wont say that again "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "9000",
+                    "reviewerDiscord": "232937189971984394",
+                    "reviewedOn": "7/3/2024, 8:30:58 AM",
+                    "reason": "If you didn't know If it was a slur or not you shouldn't be calling people it."
+                }
+            },
+            "ly5gexzug7uov": {
+                "user": "ofcdrip",
+                "date": "7/3/2024, 6:25:47 AM",
+                "status": "Denied",
+                "discord": "848045166254227466",
+                "customId": "ly5gexzug7uov",
+                "responses": {
+                    "0": "BILLY BOB",
+                    "1": "Yes69420",
+                    "2": "\"Harrasment and bullying\"",
+                    "3": "7/3/2024",
+                    "4": "Why was I banned? I called a person of the LGBTQ community a transformer. I don/t know what to call a people like that I dont wanna miss gender it so i call it an transformer bc i thought it was the same as transgender. it /SHE/HE got very mad talked about my mom (i have proof) then reported me then other people call it /he/she a transformer but they walk free (i have proof) I honestly think this is BIG missunderstanding. ",
+                    "5": "Yes. I did not know that was an \"homophobic slur\"",
+                    "6": "Why Should The Punishment Be Removed ? Like i said previously I did not know that was an \"homophobic slur\" I did not mean no harm i was just saying what i thought meant transgender, Im sorry for my actions i learn from this and i wont say that again. -Billy bob"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "9000",
+                    "reviewerDiscord": "232937189971984394",
+                    "reviewedOn": "7/3/2024, 8:22:46 AM",
+                    "reason": "If you didn't know If it was a slur or not you shouldn't be calling people it."
+                }
+            },
+            "ly6ofsjjbas1q": {
+                "user": "ajax4173",
+                "date": "7/4/2024, 2:58:10 AM",
+                "status": "Accepted",
+                "discord": "604484069304041482",
+                "customId": "ly6ofsjjbas1q",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199728739657/",
+                    "1": "~r~ 3S-19 | S. Devantier | Dauntless",
+                    "2": "Sexual RP",
+                    "3": "7/3/2024",
+                    "4": "I was banned for Sexual RP because a police officer was already angry with me so after I left the jail he called a admin which I assume he is friends with and I was trying to an emote and hit the wrong emote using the f3 key on my keyboard he then teleports me up into the sky and I get hit with a ban.",
+                    "5": "Technically yes but I just started fivem as well as this server and did not mean to.",
+                    "6": "I just started fivem as well as this server and did not mean to commit the offence "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "7/4/2024, 7:18:56 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lyj85infmb0nu": {
+                "user": "avivx12",
+                "date": "7/12/2024, 9:43:17 PM",
+                "status": "Accepted",
+                "discord": "526860009007480847",
+                "customId": "lyj85infmb0nu",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/Avivx12/",
+                    "1": " ~r~1V-01 | 1M-03 | Rico",
+                    "2": "F Slur",
+                    "3": "13.7.24",
+                    "4": "f slur ",
+                    "5": "yes",
+                    "6": "because ive firstly read all the rules and didnt see that the f slur is included only the hard r , i  am a new player which wanna just have fun and i would appreciate an unban , i hope you believe in second chances"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "7/12/2024, 9:55:22 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lyke537cnmkjc": {
+                "user": "teedcee",
+                "date": "7/13/2024, 5:18:41 PM",
+                "status": "Accepted",
+                "discord": "957989671391068190",
+                "customId": "lyke537cnmkjc",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199013405271/",
+                    "1": "~r~PHYSCO ~r~BITCH",
+                    "2": "Fail RP, Killed A Staff Member, NITRP.",
+                    "3": "13/07/2024 6:00pm",
+                    "4": "I Got Banned For Accidently Clicking R On My Keyboard Cause That's My Hands Up Button And I Accidently Killed A Staff Member I Said Sorry A lot Of Time And He Instantly Banned Me Saying Nothing I Apologize Many Times And He Just Wouldn't Budge So I Just Accepted The Fate.",
+                    "5": "The FRP And Killed A Staff Member Is True.",
+                    "6": "Its Totally Up To You But I Love The Server I Support It And I Do Not Have Any Evidence"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "7/13/2024, 8:30:55 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lyke53q0y39eh": {
+                "user": "teedcee",
+                "date": "7/13/2024, 5:18:41 PM",
+                "status": "Accepted",
+                "discord": "957989671391068190",
+                "customId": "lyke53q0y39eh",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199013405271/",
+                    "1": "~r~PHYSCO ~r~BITCH",
+                    "2": "Fail RP, Killed A Staff Member, NITRP.",
+                    "3": "13/07/2024 6:00pm",
+                    "4": "I Got Banned For Accidently Clicking R On My Keyboard Cause That's My Hands Up Button And I Accidently Killed A Staff Member I Said Sorry A lot Of Time And He Instantly Banned Me Saying Nothing I Apologize Many Times And He Just Wouldn't Budge So I Just Accepted The Fate.",
+                    "5": "The FRP And Killed A Staff Member Is True.",
+                    "6": "Its Totally Up To You But I Love The Server I Support It And I Do Not Have Any Evidence"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "7/13/2024, 8:31:10 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lykvuwuatyxhj": {
+                "user": "000007._",
+                "date": "7/14/2024, 1:34:39 AM",
+                "status": "Accepted",
+                "discord": "799094797054771200",
+                "customId": "lykvuwuatyxhj",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199175354279/",
+                    "1": "DJ",
+                    "2": "Sex RP",
+                    "3": "7/13/2024",
+                    "4": "I was banned for Sex RP ",
+                    "5": "No",
+                    "6": "Beacuse it was a flase ban an the admin that banned me has no proof"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "7/14/2024, 1:37:46 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lyls23ym5q5s1": {
+                "user": "teedcee",
+                "date": "7/14/2024, 4:36:02 PM",
+                "status": "Denied",
+                "discord": "957989671391068190",
+                "customId": "lyls23ym5q5s1",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199013405271/",
+                    "1": "~r~1V-01 | 1M-03 | Rico",
+                    "2": "Modding",
+                    "3": "14/07/2024",
+                    "4": "I Was using a thermal scope and someone in the sky was no clipping i was screensharing and i said i shot someone but i didnt i thought i did but i didnt then 4 staff came ontop of me then said im done ur cooked then just banned me no saying ur getting banned for modding just an instant ban and it was a false ban cause i saw a box in the sky but it was a thermal scope so if possible i should get unbanned i got told like 50 times to make an appeal so here i am making one for a false ban.",
+                    "5": "Yes But I was using thermal scope not modding",
+                    "6": "its a false ban i abused in game mechanics and im sorry but i dont kill anyone when im not rping i just shoot"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "saintthedestroyer",
+                    "reviewerDiscord": "1097235481546203267",
+                    "reviewedOn": "7/14/2024, 6:50:06 PM",
+                    "reason": "You have abused in-game mechanics. You can attempt to appeal in 1 week."
+                }
+            },
+            "lyls247gawni9": {
+                "user": "teedcee",
+                "date": "7/14/2024, 4:36:03 PM",
+                "status": "Denied",
+                "discord": "957989671391068190",
+                "customId": "lyls247gawni9",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199013405271/",
+                    "1": "~r~1V-01 | 1M-03 | Rico",
+                    "2": "Modding",
+                    "3": "14/07/2024",
+                    "4": "I Was using a thermal scope and someone in the sky was no clipping i was screensharing and i said i shot someone but i didnt i thought i did but i didnt then 4 staff came ontop of me then said im done ur cooked then just banned me no saying ur getting banned for modding just an instant ban and it was a false ban cause i saw a box in the sky but it was a thermal scope so if possible i should get unbanned i got told like 50 times to make an appeal so here i am making one for a false ban.",
+                    "5": "Yes But I was using thermal scope not modding",
+                    "6": "its a false ban i abused in game mechanics and im sorry but i dont kill anyone when im not rping i just shoot"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "saintthedestroyer",
+                    "reviewerDiscord": "1097235481546203267",
+                    "reviewedOn": "7/14/2024, 6:50:20 PM",
+                    "reason": "You have abused in-game mechanics. You can attempt to appeal in 1 week."
+                }
+            },
+            "lym4louz3tii1": {
+                "user": "kalletheduck",
+                "date": "7/14/2024, 10:27:11 PM",
+                "status": "Denied",
+                "discord": "929739508650475560",
+                "customId": "lym4louz3tii1",
+                "responses": {
+                    "0": "76561198887932758",
+                    "1": "-q-146",
+                    "2": "Proposing Sexual Text in OOC",
+                    "3": "2024-07-15",
+                    "4": "Proposing Sexual Text in OOC",
+                    "5": "I did.",
+                    "6": "I was playing with my friends and we werer joking around. We was bored and wanted to talk to some people. So i typed in chat: come grove streey for sex. And some people came and we had a laugh. But apparently some admin did not take it as a joke(IT WAS A JOKE) and banned me for 3 days. I wont do it again. I was just looking to have some fun."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "7/15/2024, 7:04:54 PM",
+                    "reason": "please read the rules this type of rp will not be tolerated"
+                }
+            },
+            "lym4m1ij0zolh": {
+                "user": "kalletheduck",
+                "date": "7/14/2024, 10:27:28 PM",
+                "status": "Denied",
+                "discord": "929739508650475560",
+                "customId": "lym4m1ij0zolh",
+                "responses": {
+                    "0": "76561198887932758",
+                    "1": "-q-146",
+                    "2": "Proposing Sexual Text in OOC",
+                    "3": "2024-07-15",
+                    "4": "Proposing Sexual Text in OOC",
+                    "5": "I did.",
+                    "6": "I was playing with my friends and we werer joking around. We was bored and wanted to talk to some people. So i typed in chat: come grove streey for sex. And some people came and we had a laugh. But apparently some admin did not take it as a joke(IT WAS A JOKE) and banned me for 3 days. I wont do it again. I was just looking to have some fun."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "7/15/2024, 7:04:40 PM",
+                    "reason": "please read the rules this type of rp will not be tolerated"
+                }
+            },
+            "lynczfla17370": {
+                "user": "_styx_",
+                "date": "7/15/2024, 7:09:36 PM",
+                "status": "Denied",
+                "discord": "704272454306234480",
+                "customId": "lynczfla17370",
+                "responses": {
+                    "0": "i dont stream",
+                    "1": "H.Teolis",
+                    "2": "Mass Rdm Fail rp",
+                    "3": "17/7/24",
+                    "4": "Mass Rdm Fail rp",
+                    "5": "no",
+                    "6": "my game crashed and we had  DHS unit hostage and i told them wait for me and they didint we where trying to take a cop hostage for at least 1 hour i logged back in and they where at the bankand with the other people told me to come and strt sniping them so thats what i did i have no clip as it breaks my game in sandy and we tred takeing teolis hostage and he shot at us with NITRP so i killed him in the head and he used his magic powers came over and frooze me and banned me "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/17/2024, 4:02:24 AM",
+                    "reason": "Steam URL"
+                }
+            },
+            "lynvc6rx34dj2": {
+                "user": "bigbro_04355",
+                "date": "7/16/2024, 3:43:24 AM",
+                "status": "Denied",
+                "discord": "1199514439519580262",
+                "customId": "lynvc6rx34dj2",
+                "responses": {
+                    "0": "Dj will",
+                    "1": "Z. smith ",
+                    "2": "r slur ",
+                    "3": "7/15/2024",
+                    "4": "r slur ",
+                    "5": "yes",
+                    "6": "i did not mean to do that "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/17/2024, 4:01:37 AM",
+                    "reason": "Steam URL"
+                }
+            },
+            "lynvc71aia7av": {
+                "user": "bigbro_04355",
+                "date": "7/16/2024, 3:43:24 AM",
+                "status": "Denied",
+                "discord": "1199514439519580262",
+                "customId": "lynvc71aia7av",
+                "responses": {
+                    "0": "Dj will",
+                    "1": "Z. smith ",
+                    "2": "r slur ",
+                    "3": "7/15/2024",
+                    "4": "r slur ",
+                    "5": "yes",
+                    "6": "i did not mean to do that "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/17/2024, 4:01:23 AM",
+                    "reason": "Steam URL"
+                }
+            },
+            "lynxoatqiiuxz": {
+                "user": "urdeadsinmyblunt",
+                "date": "7/16/2024, 4:48:48 AM",
+                "status": "Accepted",
+                "discord": "1206744834992377907",
+                "customId": "lynxoatqiiuxz",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199599594966/",
+                    "1": "robby",
+                    "2": "saying a slur word",
+                    "3": "7/15/2024",
+                    "4": "f slur",
+                    "5": "yes",
+                    "6": "i didnt know u couldnt say it and i was saying it in defence."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "2_money",
+                    "reviewerDiscord": "866650209501052998",
+                    "reviewedOn": "7/16/2024, 1:20:43 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lyob16fkyuni1": {
+                "user": "kiko308",
+                "date": "7/16/2024, 11:02:44 AM",
+                "status": "Denied",
+                "discord": "936001216067043358",
+                "customId": "lyob16fkyuni1",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199518641293/",
+                    "1": "Remo F.",
+                    "2": "sexual rp and modding",
+                    "3": "16/07/2024",
+                    "4": "sexual rp and modding",
+                    "5": "no",
+                    "6": "Because i sis not do it proof  https://youtu.be/hAFT3UuDg5E "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "2_money",
+                    "reviewerDiscord": "866650209501052998",
+                    "reviewedOn": "7/16/2024, 1:15:37 PM",
+                    "reason": "video no longer avail"
+                }
+            },
+            "lyoko7tmzi2o9": {
+                "user": "zyrix__",
+                "date": "7/16/2024, 3:32:35 PM",
+                "status": "Accepted",
+                "discord": "1035016523846266950",
+                "customId": "lyoko7tmzi2o9",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199242415425/",
+                    "1": "~p~ 1S-03 | ~u~AC-05|~b~T.slott",
+                    "2": "F slur",
+                    "3": "07/15/24",
+                    "4": "I called a guy the f slur because i play on a lot of 100k or die servers and stuff like that and they let you say stuff like that and I keep forgetting that vmenu servers dont allow it plus It just kinda rolled off my tongue but I said sorry a lot cause i forget. I apologized to the guy and the staff and anyway I hope you understand.",
+                    "5": "Yes",
+                    "6": "I think the punishment should be removed because honestly humans make mistakes and we forget things some times and I tried to apologize to him and be nice about it. I made a mistake I realize it and learn from it I just would another chance."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/17/2024, 3:58:29 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lyp08us5mz1yi": {
+                "user": "urdeadsinmyblunt",
+                "date": "7/16/2024, 10:48:32 PM",
+                "status": "Accepted",
+                "discord": "1206744834992377907",
+                "customId": "lyp08us5mz1yi",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199599594966/",
+                    "1": "so, i had just started 27/14/24 and i been having fun and all that. But yesterday i was playing and someone was cussing me out, out of rp and i started saying stuff back because thats not the first time ive heard someone swearing so i didnt know it was a problem then i got banned the mods was chill and told me to look at the rules then appeal. So i promise if i get unbanned it wont happen again i read all the rules.",
+                    "2": "saying a slur word",
+                    "3": "7/15/2024",
+                    "4": "A clip of me saying the F slur",
+                    "5": "Yes, i had spoken to the mods after 10 minutes after the incident ",
+                    "6": "i didnt know u couldnt say it and i was saying it in defence."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/17/2024, 3:56:51 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lypbgyiq6u597": {
+                "user": "brycedagoat23",
+                "date": "7/17/2024, 4:02:46 AM",
+                "status": "Denied",
+                "discord": "1248473711062028382",
+                "customId": "lypbgyiq6u597",
+                "responses": {
+                    "0": "1100001647afa8b",
+                    "1": "H. Teolis",
+                    "2": "Cheating",
+                    "3": "7/17/2024",
+                    "4": "Cause they said I was hacking but I not. ",
+                    "5": "No.",
+                    "6": "Cause it was a false."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/19/2024, 4:13:54 AM",
+                    "reason": "Steam URL"
+                }
+            },
+            "lyr50yb32lz7f": {
+                "user": "brittanic.",
+                "date": "7/18/2024, 10:37:54 AM",
+                "status": "Accepted",
+                "discord": "1197596974334095432",
+                "customId": "lyr50yb32lz7f",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199118735420/",
+                    "1": "C. Huddy",
+                    "2": "Trolling, VDM",
+                    "3": "15/07/24",
+                    "4": "Trolling, VDM",
+                    "5": "No",
+                    "6": "Because the person who banned me didn't even log it, I was literally patrolling as BCSO, yes I understand that I had a few hotmics, but I wasn't trolling. "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/19/2024, 4:16:26 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lys67zi0lp6oe": {
+                "user": "yeettoes_",
+                "date": "7/19/2024, 3:59:08 AM",
+                "status": "Accepted",
+                "discord": "765748277635186748",
+                "customId": "lys67zi0lp6oe",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199123410641/",
+                    "1": "H. Teolis",
+                    "2": "NITRP, mass vdm, fail rp",
+                    "3": "07/16/2024 ",
+                    "4": "I was falsely banned for actions I did not commit",
+                    "5": "no",
+                    "6": "the punishment should be removed because i didn't do the specified actions. I was in my car, and pulled next to the group with the mod. Shortly after, I was surprised to have recieved a ban for a VDM I didn't commit."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/19/2024, 4:24:16 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lyvyvp6jjgzvp": {
+                "user": "eric_cartman16",
+                "date": "7/21/2024, 7:44:42 PM",
+                "status": "Accepted",
+                "discord": "1076153817713881090",
+                "customId": "lyvyvp6jjgzvp",
+                "responses": {
+                    "0": " https://steamcommunity.com/profiles/76561199479710888/",
+                    "1": "dino cenci",
+                    "2": "it was for hard r but i didnt say it, i just say the normal n word and dino thought i said the hard r ",
+                    "3": "03/31/2024",
+                    "4": "i was banned for the hard r which i didn't say i just said the normal n word and he ended up perm banning me on something that i didnt say",
+                    "5": "no i did not commit the the offense ",
+                    "6": "i think it should be removed because i was high up in the rankings for BCSO and i got banned for something i didn't do  "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "nomadanative",
+                    "reviewerDiscord": "1200479263753769151",
+                    "reviewedOn": "7/22/2024, 5:45:51 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lyxxemv1g3u5d": {
+                "user": "eric_cartman16",
+                "date": "7/23/2024, 4:38:59 AM",
+                "status": "Denied",
+                "discord": "1076153817713881090",
+                "customId": "lyxxemv1g3u5d",
+                "responses": {
+                    "0": " https://steamcommunity.com/profiles/76561199479710888/",
+                    "1": "dino cenci",
+                    "2": "it was for hard r but i didnt say it, i just say the normal n word and dino thought i said the hard r ",
+                    "3": "03/31/2024",
+                    "4": "i was banned for the hard r which i didn't say i just said the normal n word and he ended up perm banning me on something that i didnt say",
+                    "5": "no i did not commit the the offense ",
+                    "6": "i think it should be removed because i was high up in the rankings for BCSO and i got banned for something i didn't do  "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/1/2024, 6:00:07 PM",
+                    "reason": "Ban not appealable"
+                }
+            },
+            "lyy6emp8s7pp2": {
+                "user": "toxic_mystic.",
+                "date": "7/23/2024, 8:50:55 AM",
+                "status": "Accepted",
+                "discord": "917515073096925234",
+                "customId": "lyy6emp8s7pp2",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199568796893/",
+                    "1": "~r~PHYSCO ~r~BITCH",
+                    "2": "trolling sexual talk ",
+                    "3": "2024 07-21 ",
+                    "4": "i was talking to staff att i wass gonna get a 1 day ban for to many reports and to manny jails for rdm so i said i can do any thing and said i will suck hos dick but i was just jocking then i got banned i was not tryying to trolling i just did,it whana get bannd just i just whanna play and have fun  ",
+                    "5": "yes i cant lie yes and it was my fault for say childish thing like that it wont happen i swere ",
+                    "6": "i should get unbannd because i have a good rp and i will be good again and i will not repeat my mistakes again i just want to play and have fun and rp ass a cic and try to het cert civ so i can own a own business and rp ass a good civ and i will try to join the police force and stop with my mistake please just give me a chance and i show how good my rp can get i am a good civ i just wanna get a new chance and sow you guys that i can be a good civ i will be a good civ pls give me a new chance i have read the rules now multiple times  now so now i can the rules in my head just give me a chance and i show my rp skills to a high skills "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "ssh.1",
+                    "reviewerDiscord": "379082200962039811",
+                    "reviewedOn": "7/23/2024, 7:48:42 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lyyd9diksbroq": {
+                "user": "toxic_mystic.",
+                "date": "7/23/2024, 12:02:47 PM",
+                "status": "Denied",
+                "discord": "917515073096925234",
+                "customId": "lyyd9diksbroq",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199568796893/",
+                    "1": "~r~PHYSCO ~r~BITCH",
+                    "2": "trolling sexual talk ",
+                    "3": "2024 07-21 ",
+                    "4": "i was talking to staff att i wass gonna get a 1 day ban for to many reports and to manny jails for rdm so i said i can do any thing and said i will suck hos dick but i was just jocking then i got banned i was not tryying to trolling i just did,it whana get bannd just i just whanna play and have fun  ",
+                    "5": "yes i cant lie yes and it was my fault for say childish thing like that it wont happen i swere ",
+                    "6": "i should get unbannd because i have a good rp and i will be good again and i will not repeat my mistakes again i just want to play and have fun and rp ass a cic and try to het cert civ so i can own a own business and rp ass a good civ and i will try to join the police force and stop with my mistake please just give me a chance and i show how good my rp can get i am a good civ i just wanna get a new chance and sow you guys that i can be a good civ i will be a good civ pls give me a new chance i have read the rules now multiple times  now so now i can the rules in my head just give me a chance and i show my rp skills to a high skills "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "ssh.1",
+                    "reviewerDiscord": "379082200962039811",
+                    "reviewedOn": "7/23/2024, 7:48:36 PM",
+                    "reason": "Abused Ban Appeals Sending Multiple"
+                }
+            },
+            "lyyd9dtug4eio": {
+                "user": "toxic_mystic.",
+                "date": "7/23/2024, 12:02:48 PM",
+                "status": "Denied",
+                "discord": "917515073096925234",
+                "customId": "lyyd9dtug4eio",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199568796893/",
+                    "1": "~r~PHYSCO ~r~BITCH",
+                    "2": "trolling sexual talk ",
+                    "3": "2024 07-21 ",
+                    "4": "i was talking to staff att i wass gonna get a 1 day ban for to many reports and to manny jails for rdm so i said i can do any thing and said i will suck hos dick but i was just jocking then i got banned i was not tryying to trolling i just did,it whana get bannd just i just whanna play and have fun  ",
+                    "5": "yes i cant lie yes and it was my fault for say childish thing like that it wont happen i swere ",
+                    "6": "i should get unbannd because i have a good rp and i will be good again and i will not repeat my mistakes again i just want to play and have fun and rp ass a cic and try to het cert civ so i can own a own business and rp ass a good civ and i will try to join the police force and stop with my mistake please just give me a chance and i show how good my rp can get i am a good civ i just wanna get a new chance and sow you guys that i can be a good civ i will be a good civ pls give me a new chance i have read the rules now multiple times  now so now i can the rules in my head just give me a chance and i show my rp skills to a high skills "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "ssh.1",
+                    "reviewerDiscord": "379082200962039811",
+                    "reviewedOn": "7/23/2024, 7:49:03 PM",
+                    "reason": "Abused Ban Appeals Sending Multiple"
+                }
+            },
+            "lyyv8kpoxsws0": {
+                "user": "minks8106",
+                "date": "7/23/2024, 8:26:03 PM",
+                "status": "Accepted",
+                "discord": "925058859641495583",
+                "customId": "lyyv8kpoxsws0",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199225462140/",
+                    "1": "kaz.r ",
+                    "2": "using f slur",
+                    "3": "23/07/2024",
+                    "4": "for using the f slur in game ",
+                    "5": "no",
+                    "6": "i said it but it was not directed at anyone and I was merely reporting someone else's vulgur language i dont have a clipping system on my pc as im new but in the clip you can clearly hear me eporting it not using the slur "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "7/23/2024, 10:19:14 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lz4tyofdh9t6b": {
+                "user": "machofrmsugarhill",
+                "date": "7/28/2024, 12:36:59 AM",
+                "status": "Accepted",
+                "discord": "574910538480484353",
+                "customId": "lz4tyofdh9t6b",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199577029523/",
+                    "1": "spookyz",
+                    "2": "sexual rp",
+                    "3": "7/26/24",
+                    "4": "we werent roleplaying, i was talking to a admin because he jailed me and i called him a bitch, so then he says \"oh you wanna talk shit? how does 2000 months sound?\" and as a joke i say \"ITS A PRANK ILL SUCK IT CHILL FORGIVE ME!! DONT GIVE ME 2000 MONTHS\" nigga gonna say its sexual rp even we werent roleplaying he was js abusing his admin atp. How do you give someone 2000 months for saying bitch then to a ban. 300 to 2000 to a 3 day ban within 20 seconds. yeah aii",
+                    "5": "yes but we werent roleplaying at the moment",
+                    "6": "because thats just bullshit ill be fine with a jail but if we arent roleplaying how are you gonna say its sexual roleplay IF THERE IS NO ROLEPLAY IT WAS A JOKE."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/1/2024, 5:57:07 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lz62gb5eh7yjn": {
+                "user": "jerpad68",
+                "date": "7/28/2024, 9:22:25 PM",
+                "status": "Accepted",
+                "discord": "981404325500817529",
+                "customId": "lz62gb5eh7yjn",
+                "responses": {
+                    "0": "76561199707415675",
+                    "1": "chase",
+                    "2": "modding",
+                    "3": "7/27/2024",
+                    "4": "he thought i was modding but i wasn't",
+                    "5": "No",
+                    "6": "because i wasn't modding and chase said "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/1/2024, 5:44:22 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lz62w9a84kb43": {
+                "user": "moose653",
+                "date": "7/28/2024, 9:34:49 PM",
+                "status": "Accepted",
+                "discord": "1200376258048040973",
+                "customId": "lz62w9a84kb43",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199669983455/",
+                    "1": "slays",
+                    "2": "r slur",
+                    "3": "today",
+                    "4": "r slur",
+                    "5": "yes but i never called anyone it ",
+                    "6": "i was perm banned by slays for r slur what happen was that i was driving in ls and a guy in a 4 door charger kept on ramming my trailer and truck and when i pulled over he wanted to fight and so i stepped out and they i saw him with a gun out so i shot him because ive been rdm to many times in this sever so i knew that he was going to shoot me so i shot him before he could then i said r slur i dont remeber how i said it in a way but in the clip from the guy that i killed shows me not calling him r slur then i was frozen 10 min later by slays and then he said i would be getting a 1 week ban then i told him that ive heard by many people that you can say it but you cant call people it then why i asked for another staff member to see what they say they told slays to perm ban me but the guy was just a sr admin and slays is a head jr head admin and yea that the story"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/1/2024, 5:34:57 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzamu73sw3qc9": {
+                "user": "sadflgator",
+                "date": "8/1/2024, 2:04:09 AM",
+                "status": "Denied",
+                "discord": "847164765960142848",
+                "customId": "lzamu73sw3qc9",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199092721547/edit/info",
+                    "1": "Reynolds",
+                    "2": "Slur but was a accident",
+                    "3": "Earlier Today",
+                    "4": "Slur but I didnt know it wasnt allowed and I tried to say sorry but I was banned and please I didnt know I heard other people saying it.",
+                    "5": "Yes but I didn't know.",
+                    "6": "Because I just recently joined the server and its honestly the best server ive played on and I don't wanna have to wait a week to play on it. Please I didn't know it wasn't allowed because other servers it was and I heard other people saying it but now I know I made a mistake."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/1/2024, 5:31:18 PM",
+                    "reason": "You should read the rules before Roleplaying."
+                }
+            },
+            "lzdg4iqef43un": {
+                "user": "djlilc12",
+                "date": "8/3/2024, 1:19:32 AM",
+                "status": "Accepted",
+                "discord": "830672636798828544",
+                "customId": "lzdg4iqef43un",
+                "responses": {
+                    "0": "I dont Know What That Is",
+                    "1": "336 | Kaz R.",
+                    "2": "VDM",
+                    "3": "8/2/2024",
+                    "4": "Hello, i was recently banned from sasrp for vdm and it says it is my 10th offense but I Lack to believe that. And then the date is messed up he said it will be a 3 day ban but the date says 05/08/2024 | My Ban Id Is 319",
+                    "5": "No",
+                    "6": "I was in my trackhawk flying down sandy shores and I was barely crashing I was just trying to have fun in my brand new car I just bought for 15 dollars"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/3/2024, 1:37:41 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lzet0qvkwmlp7": {
+                "user": "chen_49642",
+                "date": "8/4/2024, 12:08:17 AM",
+                "status": "Accepted",
+                "discord": "1189809711856500786",
+                "customId": "lzet0qvkwmlp7",
+                "responses": {
+                    "0": "ppp",
+                    "1": "storm",
+                    "2": "rdm",
+                    "3": "8/3/2024",
+                    "4": "rdm",
+                    "5": "kidnap friend",
+                    "6": "cause they kidnaped my friend and beat me up "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/4/2024, 1:31:54 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lzeunqbvujkc4": {
+                "user": "makr_rk",
+                "date": "8/4/2024, 12:54:09 AM",
+                "status": "Accepted",
+                "discord": "1171608334764355645",
+                "customId": "lzeunqbvujkc4",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561198021799547/",
+                    "1": "Officer Bryan",
+                    "2": "rdm",
+                    "3": "8/3/2024",
+                    "4": "thats what im tryna figure out i didnt mass rdm anyone and no staff pulled me i got kicked by another sr mod and when I rejoined it said i got kicked",
+                    "5": "No",
+                    "6": "Becuase no staff member pulled me a side, told me that for what im getting a ban, I got this after I rejoined for being kicked by a sr mod for gang menu abuse."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/4/2024, 1:36:21 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lzevauu7tzbfy": {
+                "user": "twingleberry",
+                "date": "8/4/2024, 1:12:08 AM",
+                "status": "Denied",
+                "discord": "1179958033955168297",
+                "customId": "lzevauu7tzbfy",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199627724029/",
+                    "1": "East",
+                    "2": "for sounding that im 7 while im 14 i havent hit puberty yet so i sound like im 7 but i aint",
+                    "3": "3.8.2024",
+                    "4": "for sounding that im 7 while im 14 i havent hit puberty yet so i sound like im 7 but i aint",
+                    "5": "no",
+                    "6": "i dont but east banned me for sounding 7 while im 14 and he banned me for \"underage\" while im 14 and i should be unbanned cuz i love this server "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/4/2024, 1:53:24 AM",
+                    "reason": "Not 14"
+                }
+            },
+            "lzg14kzi9o9ak": {
+                "user": "jam1410",
+                "date": "8/4/2024, 8:43:00 PM",
+                "status": "Denied",
+                "discord": "519640482305802286",
+                "customId": "lzg14kzi9o9ak",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561198297425528/",
+                    "1": "-b-BITCH",
+                    "2": "f slur",
+                    "3": "08/02/2024",
+                    "4": "someone called me the f slur in jail but when i said it back he clipped it and got me banned",
+                    "5": "yes",
+                    "6": "i like the way this server role players,  and i just joined a gang the day before i was banned."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "beau_thelab",
+                    "reviewerDiscord": "1051836233858420797",
+                    "reviewedOn": "8/4/2024, 9:06:58 PM",
+                    "reason": "I do understand where you are coming from however this is not appealable, and the ban will stay. Have a great day."
+                }
+            },
+            "lzg7m53foe5mm": {
+                "user": "barandovsky",
+                "date": "8/4/2024, 11:44:36 PM",
+                "status": "Denied",
+                "discord": "794627471798566972",
+                "customId": "lzg7m53foe5mm",
+                "responses": {
+                    "0": "Barandovsky",
+                    "1": "~r~ Slays",
+                    "2": "N Word",
+                    "3": "1.08.2024",
+                    "4": "In einer Schießerei N Word gesagt",
+                    "5": "Ja",
+                    "6": "I think I should be unbanned from this server because I should be given another chance to prove myself. I would like to continue to actively operate RP on the server. I've also met a lot of people on the server and get along well with most of them and I personally think it's a shame if the ban stays in place."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "beau_thelab",
+                    "reviewerDiscord": "1051836233858420797",
+                    "reviewedOn": "8/7/2024, 2:46:43 AM",
+                    "reason": "I do understand where you are coming from however this is not appealable, and the ban will stay. Have a great day."
+                }
+            },
+            "lziu7hj57cihx": {
+                "user": "chen_49642",
+                "date": "8/6/2024, 7:52:36 PM",
+                "status": "Denied",
+                "discord": "1189809711856500786",
+                "customId": "lziu7hj57cihx",
+                "responses": {
+                    "0": "https://store.steampowered.com/",
+                    "1": "dont know",
+                    "2": "dont know",
+                    "3": "8/6/24",
+                    "4": "dont know didint telll me just banned me",
+                    "5": "dont know",
+                    "6": "didnt do anything"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "beau_thelab",
+                    "reviewerDiscord": "1051836233858420797",
+                    "reviewedOn": "8/7/2024, 2:47:28 AM",
+                    "reason": "Please make a support ticket and your ban information will be there, until then this is denied, redo app in 3 days."
+                }
+            },
+            "lzixl5n0disvr": {
+                "user": "caylentv",
+                "date": "8/6/2024, 9:27:13 PM",
+                "status": "Denied",
+                "discord": "1078128788971475046",
+                "customId": "lzixl5n0disvr",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199172634424/",
+                    "1": " 2S-15 | E.Black",
+                    "2": "R slur",
+                    "3": "idk the day",
+                    "4": "little brother playing and apparently said an r slur",
+                    "5": "no i didnt",
+                    "6": "Because it wasnt me who said it"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "beau_thelab",
+                    "reviewerDiscord": "1051836233858420797",
+                    "reviewedOn": "8/7/2024, 2:47:58 AM",
+                    "reason": "I do understand where you are coming from however this is not appealable, and the ban will stay. Have a great day."
+                }
+            },
+            "lzrekxo8jj32e": {
+                "user": "xcoasxd",
+                "date": "8/12/2024, 7:45:05 PM",
+                "status": "Accepted",
+                "discord": "1239919846544642210",
+                "customId": "lzrekxo8jj32e",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199529700365/",
+                    "1": " yuri",
+                    "2": "nitrp",
+                    "3": "8/11//2024",
+                    "4": "nitrp",
+                    "5": "no i got stuff rev ",
+                    "6": "https://medal.tv/games/gta-v/clips/isCMHz7lmIjvW5YTM/d13371YROWhh?invite=cr-MSw4TnUsMjQ4MDg2MTQwLA"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/13/2024, 11:59:20 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzsyok1vyyont": {
+                "user": "candyboy111333",
+                "date": "8/13/2024, 9:55:33 PM",
+                "status": "Accepted",
+                "discord": "865650106791362610",
+                "customId": "lzsyok1vyyont",
+                "responses": {
+                    "0": "Can not find it",
+                    "1": "Sky",
+                    "2": "Sexitest ",
+                    "3": "8/10/2024",
+                    "4": "I said I opened a diddy daycare",
+                    "5": "Kind of",
+                    "6": "This is the server where I rp the most and have the most fun and I would like to still rp here,"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/13/2024, 11:48:10 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzsyokg6j1isg": {
+                "user": "candyboy111333",
+                "date": "8/13/2024, 9:55:33 PM",
+                "status": "Accepted",
+                "discord": "865650106791362610",
+                "customId": "lzsyokg6j1isg",
+                "responses": {
+                    "0": "Can not find it",
+                    "1": "Sky",
+                    "2": "Sexitest ",
+                    "3": "8/10/2024",
+                    "4": "I said I opened a diddy daycare",
+                    "5": "Kind of",
+                    "6": "This is the server where I rp the most and have the most fun and I would like to still rp here,"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/13/2024, 10:15:52 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzu7twji1tirx": {
+                "user": "m1ies",
+                "date": "8/14/2024, 6:59:25 PM",
+                "status": "Accepted",
+                "discord": "1020756646844174416",
+                "customId": "lzu7twji1tirx",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199226101691/",
+                    "1": "M.Bennet",
+                    "2": "FRP, Lying to staff, NITRP and Mass RDM (which i didnt do)",
+                    "3": "14/08/2024",
+                    "4": "FRP, Lying to staff, NITRP and Mass RDM (which i didnt do)",
+                    "5": "No",
+                    "6": "Because i didnt do anything."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/14/2024, 11:06:45 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzxk3ijn631am": {
+                "user": "nickdoesitbetter",
+                "date": "8/17/2024, 3:06:07 AM",
+                "status": "Accepted",
+                "discord": "823592420553523231",
+                "customId": "lzxk3ijn631am",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199589589857/",
+                    "1": "John Smith",
+                    "2": "Sexual Harassment",
+                    "3": "09/01/2024",
+                    "4": "Sexual Harassment",
+                    "5": "No I was just role playing",
+                    "6": "So look I was banned for SA which i thought was okay to do because I was rping but it seems like the admins were not liking my rping so they banned me but when you load in the game on the loading screening it says the rules which are NO RDM/VDM/RACISM and never said anything about SA or RPing like that so in my defense I was unable to follow the rules correctly due to the fact no one said it was not okay so in my defense again I was just trying to rp have fun and follow the rules that I thought I was following. 227"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "_arp2",
+                    "reviewerDiscord": "807841498543685652",
+                    "reviewedOn": "8/18/2024, 8:02:48 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzyepj87icpm0": {
+                "user": "candyboy111333",
+                "date": "8/17/2024, 5:23:03 PM",
+                "status": "Denied",
+                "discord": "865650106791362610",
+                "customId": "lzyepj87icpm0",
+                "responses": {
+                    "0": "Can not find it",
+                    "1": "Mean John",
+                    "2": "Mass RDM",
+                    "3": "8/16/2024",
+                    "4": "Mass rdm",
+                    "5": "yes",
+                    "6": "I like this sever and i would like to get unbanned this server is where I have the most fun."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "_arp2",
+                    "reviewerDiscord": "807841498543685652",
+                    "reviewedOn": "8/18/2024, 7:58:09 PM",
+                    "reason": "Not detailed enough"
+                }
+            },
+            "lzyll505rwz24": {
+                "user": "awesome43",
+                "date": "8/17/2024, 8:35:35 PM",
+                "status": "Accepted",
+                "discord": "1039376290265960508",
+                "customId": "lzyll505rwz24",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/DirectorAwesome/",
+                    "1": "~r~204 | Remo F.",
+                    "2": "hard r",
+                    "3": "07/23/24",
+                    "4": "for saying the hard r and i didnt mean to say it i will not say it anymore i will learn from my action so i will not say it anymore",
+                    "5": "no",
+                    "6": "because i learn my mistake and wont do it again"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/19/2024, 7:28:18 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzylvynwjz17e": {
+                "user": "e_1010_c",
+                "date": "8/17/2024, 8:44:00 PM",
+                "status": "Denied",
+                "discord": "791960825400131585",
+                "customId": "lzylvynwjz17e",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199121768407/",
+                    "1": "Leo",
+                    "2": "Racism",
+                    "3": "Thursday 15th or the day before. Not sure exactly",
+                    "4": "Apparently I said something in chat which was deemed as racist.",
+                    "5": "No",
+                    "6": "I wasn't racist. I was being arrested in Legion Square by a biker cop and all of a sudden I got permanently banned for racism. I would never say such thing even in an online game!"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/19/2024, 7:28:59 PM",
+                    "reason": "Not filled out correctly."
+                }
+            },
+            "lzyt9vkfcgx57": {
+                "user": "nasondt",
+                "date": "8/18/2024, 12:10:47 AM",
+                "status": "Denied",
+                "discord": "798340424154611753",
+                "customId": "lzyt9vkfcgx57",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199230515563/",
+                    "1": "~r~ [3B-04] | K. Holden",
+                    "2": "Cheating/modding",
+                    "3": "8/17/24",
+                    "4": "for modding",
+                    "5": "no i did not commit this offense",
+                    "6": "I was playing this city with my friends and some one else was modding and stuff and then he got banned and me and my friend went to yellow jack and then some random guy shot in the head and i died and then i was teleported in the air and banned for \"modding\" when i wasnt ."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/19/2024, 7:29:15 PM",
+                    "reason": "Modder."
+                }
+            },
+            "lzzzm89jzd7qz": {
+                "user": "ironslidexii",
+                "date": "8/18/2024, 7:56:07 PM",
+                "status": "Denied",
+                "discord": "738340586137976842",
+                "customId": "lzzzm89jzd7qz",
+                "responses": {
+                    "0": "idk how to get it",
+                    "1": " ~r~ [3B-04] | K. Holden",
+                    "2": "modding",
+                    "3": "Saturday 19th august ",
+                    "4": "i dont know someone spawned a bus on my head and kept spawning cars on me then i got kicked then i joined back some guy spawned to me and said i will be getting a perm ban for modding ",
+                    "5": "no",
+                    "6": "it wasn't me. me and my friend pissed off some guy and i think he was the Modder and spawned a bus in me and spammed loads of cars on me "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/19/2024, 7:27:54 PM",
+                    "reason": "Modder."
+                }
+            },
+            "m006ad6kx7rvf": {
+                "user": "whosnature",
+                "date": "8/18/2024, 11:02:51 PM",
+                "status": "Accepted",
+                "discord": "259835416952307712",
+                "customId": "m006ad6kx7rvf",
+                "responses": {
+                    "0": " 76561199046303821",
+                    "1": "Haley S",
+                    "2": "VDM",
+                    "3": "8/18/2024",
+                    "4": "I was banned for crashing into a group of people in game by the firestation. I crashed into them and I went to say sorry to them to rolpelay it out, it then I immediately got banned without a staff telling me why I'm getting banned.",
+                    "5": "Yes, I did commit the offense I was banned for.",
+                    "6": "Although I don't have any evidence of what happened I am sincerely sorry. I would like to say that what I did was very immature of me and won't happen again. I assure you if this ban appeal gets accepted I will fix my reputation in the server and join a department. I would like to say again that I am so sorry."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/19/2024, 7:27:16 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m01eht18lkte9": {
+                "user": "ronaldreagan199917",
+                "date": "8/19/2024, 7:40:21 PM",
+                "status": "Accepted",
+                "discord": "1242329847846408195",
+                "customId": "m01eht18lkte9",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199689119198/l",
+                    "1": "-r- 205 | Jimmy D.",
+                    "2": "etc? blacklisted word?",
+                    "3": "i am unsure ",
+                    "4": "saying n word with er or uh hard r",
+                    "5": "no i had used nigga ",
+                    "6": "i was falsely accuused of saying the n word, and i doo have a speech impediment an do have an issue with mispronunciations to a degree after all."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/19/2024, 8:52:15 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m01p1aenascpe": {
+                "user": "fraudulentcheccs",
+                "date": "8/20/2024, 12:35:26 AM",
+                "status": "Denied",
+                "discord": "1211561492038819843",
+                "customId": "m01p1aenascpe",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561198964798018/",
+                    "1": "j.jones",
+                    "2": "\"hard R\"",
+                    "3": "aug 19 ",
+                    "4": "\"hard r\"",
+                    "5": "NO",
+                    "6": "i never said what hes claiming i said i asked for a clip and he never provided it "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/21/2024, 1:26:06 PM",
+                    "reason": "Lies."
+                }
+            },
+            "m04dylr12j26o": {
+                "user": "jennaxxxx",
+                "date": "8/21/2024, 9:48:44 PM",
+                "status": "Denied",
+                "discord": "1006814233427718154",
+                "customId": "m04dylr12j26o",
+                "responses": {
+                    "0": "Don’t have steam but look logs for the url pls",
+                    "1": "John. W",
+                    "2": "Frp",
+                    "3": "21/08/2024",
+                    "4": "Frp x3",
+                    "5": "I’ll be honest yes I did but in question 7 I’ll explain why",
+                    "6": "So why the punishment. Should be remove is I was playing the server and the server died a lot so it was just me and  3 others so we where all messing around and even they found me randomly magdumed me with a airsoft gun then cuffed me and tried taking my car and we where all having fun but ofc someone just has to be salty about everything and every time something didn’t go his way or when he was shooting me with a air soft gun non stop and got dropped he then warned me for frp for where I might have some fun and ran them ofc they cry about it and they where doing shit back to me but when I did it and they got dropped they would cry and I think I should be unbanned is because no one in the server was rping since it was 4 people and it was around 11pm but if I was unbanned I would promise I would not do this stuff again "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/22/2024, 12:49:22 AM",
+                    "reason": ""
+                }
+            },
+            "m09o2lv38y4vc": {
+                "user": "ronaldreagan199917",
+                "date": "8/25/2024, 2:30:38 PM",
+                "status": "Denied",
+                "discord": "1242329847846408195",
+                "customId": "m09o2lv38y4vc",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199689119198/",
+                    "1": "2K-04 | Marston",
+                    "2": "https://medal.tv/games/gta-v/clips/ixIwEO5QnDp0vnsAy/d1337Og8q3nl?invite=cr-MSxDalcsMjUyNjYyMDQyLA",
+                    "3": "like yesterday ",
+                    "4": "check my link pls n youll see i had clip  it i honestly dont know why",
+                    "5": "no bc i had never commit no offense ",
+                    "6": "bc i shouldnt be ban can you tell me why it shouldnt be removed?? lol https://medal.tv/games/gta-v/clips/ixIwEO5QnDp0vnsAy/d1337Og8q3nl?invite=cr-MSxDalcsMjUyNjYyMDQyLA"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "qa._._",
+                    "reviewerDiscord": "807841498543685652",
+                    "reviewedOn": "8/25/2024, 6:19:01 PM",
+                    "reason": "Did not meet word requirement on question 5 and very unprofessional."
+                }
+            },
+            "m0ak6rp17hp3x": {
+                "user": "reflexx.2",
+                "date": "8/26/2024, 5:29:40 AM",
+                "status": "Accepted",
+                "discord": "990362969860894750",
+                "customId": "m0ak6rp17hp3x",
+                "responses": {
+                    "0": "https://steamcommunity.com/id/sdasdad213w/",
+                    "1": "east",
+                    "2": "vdm",
+                    "3": "8/26/24",
+                    "4": "i honestly dont know i was just riding a dirt bike around having fun with my homie and out of nowhere i got hit w a banned.",
+                    "5": "No",
+                    "6": "The punishment should be removed because i  i diddnt do anything..  https://medal.tv/games/gta-v/clips/iy8QXK13ylklsapo5/d1337n397hvL?invite=cr-MSxKMHUsMTkxNjUzMzM1LA"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "judeybootey",
+                    "reviewerDiscord": "904096834631381032",
+                    "reviewedOn": "8/26/2024, 8:29:09 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m0brl0r88rqnw": {
+                "user": "candyboy111333",
+                "date": "8/27/2024, 1:44:28 AM",
+                "status": "Denied",
+                "discord": "865650106791362610",
+                "customId": "m0brl0r88rqnw",
+                "responses": {
+                    "0": "Idk",
+                    "1": "Jake>H",
+                    "2": "Saying hard R",
+                    "3": "8/26/2024",
+                    "4": "they thougth I said Hard r which I did not do they thougth it was but it was not.",
+                    "5": "no",
+                    "6": "I like this sever and i would like to get unbanned this server is where I have the most fun."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/27/2024, 1:53:54 AM",
+                    "reason": ""
+                }
+            },
+            "m0brl16euxj10": {
+                "user": "candyboy111333",
+                "date": "8/27/2024, 1:44:28 AM",
+                "status": "Denied",
+                "discord": "865650106791362610",
+                "customId": "m0brl16euxj10",
+                "responses": {
+                    "0": "Idk",
+                    "1": "Jake>H",
+                    "2": "Saying hard R",
+                    "3": "8/26/2024",
+                    "4": "they thougth I said Hard r which I did not do they thougth it was but it was not.",
+                    "5": "no",
+                    "6": "I like this sever and i would like to get unbanned this server is where I have the most fun."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/27/2024, 1:54:00 AM",
+                    "reason": ""
+                }
+            },
+            "m0cag6xnse74l": {
+                "user": "able_calving",
+                "date": "8/27/2024, 10:32:35 AM",
+                "status": "Accepted",
+                "discord": "1200126605658435604",
+                "customId": "m0cag6xnse74l",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199762814268/home",
+                    "1": "jake",
+                    "2": "sharing a glitch i found",
+                    "3": "26/08/2024",
+                    "4": "i was in prisson and some guy said come here so i did he carried me and he was then tpd out off jail but if he droped me i would tp back so we went to jake to allert him off this and he then banned my friend for this so i went to the prison and showed some guy how to do it but i droped him outside so hwe got tpd back just to be mean",
+                    "5": "yes but i think the ban is to long",
+                    "6": "because a week is execive for showing someone a glitch and then droping them so they got tpd back so its irrelevant and my friend who did the glitch aand showed me it only got 6 hours and i get a week"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "toxicx24",
+                    "reviewerDiscord": "1134546232455462913",
+                    "reviewedOn": "8/27/2024, 4:53:41 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m2l6lotpzm564": {
+                "user": "ttuxzy",
+                "date": "10/22/2024, 8:14:14 PM",
+                "status": "Accepted",
+                "discord": "959483958188462130",
+                "customId": "m2l6lotpzm564",
+                "responses": {
+                    "0": "SSGSLICKS",
+                    "1": "~b~H~y~A~p~R~r~R~g~Y",
+                    "2": "hard r",
+                    "3": "10/22/2024",
+                    "4": "Because i said hard-r",
+                    "5": "no",
+                    "6": "I was talking with a group of people and someone siad the nword and the moderator thought it was me"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "britcoffee",
+                    "reviewerDiscord": "702513102066810920",
+                    "reviewedOn": "10/24/2024, 9:34:55 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m2lalva7sr2l5": {
+                "user": "ttuxzy",
+                "date": "10/22/2024, 10:06:20 PM",
+                "status": "Accepted",
+                "discord": "959483958188462130",
+                "customId": "m2lalva7sr2l5",
+                "responses": {
+                    "0": "SSGSLICKS",
+                    "1": "~b~H~y~A~p~R~r~R~g~Y",
+                    "2": "Harrasment",
+                    "3": "10/22/2024",
+                    "4": "Because i said hard-r",
+                    "5": "yes, i was singing a song and i said the word",
+                    "6": ", i was singing a song and i said the word. i thought i was muted"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "britcoffee",
+                    "reviewerDiscord": "702513102066810920",
+                    "reviewedOn": "10/24/2024, 9:34:59 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m2qn785a6t44z": {
+                "user": "gav625365552",
+                "date": "10/26/2024, 3:57:43 PM",
+                "status": "Accepted",
+                "discord": "1198401381871140926",
+                "customId": "m2qn785a6t44z",
+                "responses": {
+                    "0": "gav213132",
+                    "1": "~r~ S. Jackson",
+                    "2": "racial slurs",
+                    "3": "not usre",
+                    "4": "saying n word",
+                    "5": "saying n word becasue i was going to die if i didnt say it ",
+                    "6": "I was forced to say it and while banned i joined a nother server that wosnt good and leanred hoe to roleplay really good"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "bman22088",
+                    "reviewerDiscord": "1268817242120781825",
+                    "reviewedOn": "10/26/2024, 4:03:06 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m2uylyrcxw6eu": {
+                "user": "dolderis",
+                "date": "10/29/2024, 4:28:11 PM",
+                "status": "Denied",
+                "discord": "462984876065554432",
+                "customId": "m2uylyrcxw6eu",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199244989389/",
+                    "1": "1S-08 | S.R.T | M. Savage",
+                    "2": "VDM and n-word with r 2x",
+                    "3": "2024-10-29",
+                    "4": "I was banned for vdm and saying n word with the hard r when I didn't say it.",
+                    "5": "No, because the vdm was for the guy that was shoting at me and I didn't say the n-word hard r.",
+                    "6": "The punishment should be removed, because  I didn't say the n word hard r and only you guys heard it, because i live in another country and i have a different accent then you guys and i vdm that guy, because he started shooting at me earlier."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "regblflasdlf_73525",
+                    "reviewerDiscord": "1153370638124318822",
+                    "reviewedOn": "10/29/2024, 4:35:34 PM",
+                    "reason": "Hello my name is S. Jackson im going deny your appeal due to you did say the hard r 1x so the banned will stick you may replay within 48 hours"
+                }
+            },
+            "m2uylz1dmd7c1": {
+                "user": "dolderis",
+                "date": "10/29/2024, 4:28:12 PM",
+                "status": "Denied",
+                "discord": "462984876065554432",
+                "customId": "m2uylz1dmd7c1",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199244989389/",
+                    "1": "1S-08 | S.R.T | M. Savage",
+                    "2": "VDM and n-word with r 2x",
+                    "3": "2024-10-29",
+                    "4": "I was banned for vdm and saying n word with the hard r when I didn't say it.",
+                    "5": "No, because the vdm was for the guy that was shoting at me and I didn't say the n-word hard r.",
+                    "6": "The punishment should be removed, because  I didn't say the n word hard r and only you guys heard it, because i live in another country and i have a different accent then you guys and i vdm that guy, because he started shooting at me earlier."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "regblflasdlf_73525",
+                    "reviewerDiscord": "1153370638124318822",
+                    "reviewedOn": "10/29/2024, 4:35:45 PM",
+                    "reason": "same app"
+                }
+            },
+            "m2wg8l0hbd30y": {
+                "user": "jerpad68",
+                "date": "10/30/2024, 5:29:26 PM",
+                "status": "Accepted",
+                "discord": "981404325500817529",
+                "customId": "m2wg8l0hbd30y",
+                "responses": {
+                    "0": "idk",
+                    "1": "Staff Cord ~r~Viper. W",
+                    "2": "LTAP",
+                    "3": "10/30/2024",
+                    "4": "i was banned for leaving the server because i called admin and tryed to talk to him and went the the cop and ask what happed and i just said what every because he wasn't doing nothing and i called staff so i left",
+                    "5": "NO",
+                    "6": "Because i called staff and he wasn't take my side of the story and so i left"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "regblflasdlf_73525",
+                    "reviewerDiscord": "1153370638124318822",
+                    "reviewedOn": "10/30/2024, 6:39:16 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m2z7kh2ir0rge": {
+                "user": "ttuxzy",
+                "date": "11/1/2024, 3:50:03 PM",
+                "status": "Denied",
+                "discord": "959483958188462130",
+                "customId": "m2z7kh2ir0rge",
+                "responses": {
+                    "0": "SSGSLICKS",
+                    "1": " KenzieGoddard",
+                    "2": "Slur",
+                    "3": "10/22/2024",
+                    "4": "Because i said hard-r",
+                    "5": "yes",
+                    "6": "It was very unmature of me to say this slur. I am very sorry and it will never happen again"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "justicequestgaming",
+                    "reviewerDiscord": "291374574745157632",
+                    "reviewedOn": "11/1/2024, 5:39:52 PM",
+                    "reason": ""
+                }
+            },
+            "m34ubnereeydb": {
+                "user": "newports123",
+                "date": "11/5/2024, 1:25:53 PM",
+                "status": "Accepted",
+                "discord": "498555086163935234",
+                "customId": "m34ubnereeydb",
+                "responses": {
+                    "0": "76561198977764592",
+                    "1": "p SMILE",
+                    "2": "Death threats",
+                    "3": "11-5-2024",
+                    "4": "SMILE Pulled me because he couldnt catch me, we got into a argument and i told him to kill himself",
+                    "5": "i didnt threathen to kill himm no",
+                    "6": "https://medal.tv/games/gta-v/clips/j1BOSIMcoSUCdtvWh?invite=cr-MSxCMlIsMjUwMjc3NjkwLA"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "regblflasdlf_73525",
+                    "reviewerDiscord": "1153370638124318822",
+                    "reviewedOn": "11/7/2024, 10:19:37 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m384kyxytevdo": {
+                "user": "masker0790",
+                "date": "11/7/2024, 8:36:23 PM",
+                "status": "Accepted",
+                "discord": "1254958852336517200",
+                "customId": "m384kyxytevdo",
+                "responses": {
+                    "0": "https://steamcommunity.com/profiles/76561199791409886/",
+                    "1": "rhythm",
+                    "2": "Rude word",
+                    "3": "11/7/24",
+                    "4": "Said kys in rp (Never meant to harm anyone in any way)",
+                    "5": "I admit. And i am sorry for it",
+                    "6": "Its my first offence and I said it in rp, so i thought i was allowed to. I never meant it irl"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "regblflasdlf_73525",
+                    "reviewerDiscord": "1153370638124318822",
+                    "reviewedOn": "11/7/2024, 10:19:03 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m3dkd3posjsx6": {
+                "user": "jerpad68",
+                "date": "11/11/2024, 3:57:01 PM",
+                "status": "Denied",
+                "discord": "981404325500817529",
+                "customId": "m3dkd3posjsx6",
+                "responses": {
+                    "0": "idk",
+                    "1": "1s-10 | tony",
+                    "2": "remarks",
+                    "3": "11/11/2024",
+                    "4": "remarks that i didn't do i was at a dealership buying cars and i just got banned and i just joined the server",
+                    "5": "Nu",
+                    "6": "i didn't do nothing i was at a dealership buying cars and i just got banned and i just joined the server"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "fwbigp",
+                    "reviewerDiscord": "1253558495568203807",
+                    "reviewedOn": "11/13/2024, 2:22:08 PM",
+                    "reason": "Racist Remarks will not be tolerated."
+                }
+            }
+        }
+    },
+    "Anti-Cheat Ban": {
+        "info": {
+            "name": "Anti-Cheat Ban",
+            "icon": "<i class=\"fa-solid fa-bomb\"></i>",
+            "shortDesc": "Appeal an anti-cheat ban."
+        },
+        "questions": [
+            "What Date Were You Banned?",
+            "Why Were You Banned?",
+            "Did You Commit The Offense You Were Banned For?",
+            "Why Should The Punishment Be Removed. Please Include Any Evidence You Have."
+        ],
+        "descriptions": [
+            "",
+            "",
+            "",
+            "50 Word Minimum"
+        ],
+        "responses": {
+            "lyrhfldha96sj": {
+                "user": "yaeforthewin",
+                "date": "7/18/2024, 4:25:13 PM",
+                "status": "Accepted",
+                "discord": "1253435166412640370",
+                "customId": "lyrhfldha96sj",
+                "responses": {
+                    "0": "7-18-24",
+                    "1": "Anti cheat accidental ban banned for no reason",
+                    "2": "No",
+                    "3": "Yea"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "7/19/2024, 4:25:27 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lyxveprs7ej9a": {
+                "user": "m2_beamer",
+                "date": "7/23/2024, 3:43:03 AM",
+                "status": "Accepted",
+                "discord": "640707339036655626",
+                "customId": "lyxveprs7ej9a",
+                "responses": {
+                    "0": "07/22/24",
+                    "1": "Cheating",
+                    "2": "No",
+                    "3": "I had admin FRIPZ pc check me and he said I was clean and told me to go here to get it appealed. There was another admin in the discord call who also confimed it. I also have a decent amount of playing hours on the server. I also am a public officer and enjoy being one so there is no reason for me to cheat."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "2_money",
+                    "reviewerDiscord": "866650209501052998",
+                    "reviewedOn": "7/28/2024, 6:46:07 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lzblt96ql46qh": {
+                "user": "porg_9817",
+                "date": "8/1/2024, 6:23:12 PM",
+                "status": "Accepted",
+                "discord": "1264082864807346210",
+                "customId": "lzblt96ql46qh",
+                "responses": {
+                    "0": "8/1/2024",
+                    "1": "idk it does not say",
+                    "2": "idk why i was banned",
+                    "3": "I didnt do nothing. I was staff jailed and I got out and my game wasnt running right and I left and when I tried to rejoin I was banned."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/1/2024, 9:29:12 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzja9x9afp4g2": {
+                "user": "charliethe3rd__",
+                "date": "8/7/2024, 3:22:24 AM",
+                "status": "Accepted",
+                "discord": "999432150908682330",
+                "customId": "lzja9x9afp4g2",
+                "responses": {
+                    "0": "8/2/24 ",
+                    "1": "anti cheat i crashed and loaded back in and i was banned ",
+                    "2": "no i crashed and then i was banned",
+                    "3": "my crash message i have no type of software in my computer. dm me for screenshot  c huddy  "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/7/2024, 6:37:47 AM",
+                    "reason": "n/a"
+                }
+            },
+            "m0aitsxpd8ccn": {
+                "user": "mysticaa",
+                "date": "8/26/2024, 4:51:35 AM",
+                "status": "Denied",
+                "discord": "754401297578328105",
+                "customId": "m0aitsxpd8ccn",
+                "responses": {
+                    "0": "I remember a while ago seeing a ban screen, then restarting my game and it going away, but then after that day I tried joining back and it was showing back again.",
+                    "1": "I honestly have no clue I was staff on another server at the time and I was trying to fix a resourse and I got banned... I didnt mean to do anything.",
+                    "2": "Not really, I don't think so.",
+                    "3": "I think this is a false ban, and should be removed. honestly, it is not my choice."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/26/2024, 8:54:45 PM",
+                    "reason": ""
+                }
+            },
+            "m0bqwedkakwaw": {
+                "user": "rainontopfr",
+                "date": "8/27/2024, 1:25:19 AM",
+                "status": "Accepted",
+                "discord": "491304554126901260",
+                "customId": "m0bqwedkakwaw",
+                "responses": {
+                    "0": "2024-08-26",
+                    "1": "\"banned for cheating\"",
+                    "2": "No",
+                    "3": "I believe I should be unbanned because I did not commit the offense I was banned for, all I did was spam a emote 3 times by accident. https://medal.tv/games/gta-v/clips/iyuhqykyTtAdgognu/d1337Fjvs4pX?invite=cr-MSxwa04sMTExNTY3NjkwLA"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/27/2024, 7:28:44 AM",
+                    "reason": "n/a"
+                }
+            }
+        }
+    },
+    "Global Ban": {
+        "info": {
+            "name": "Global Ban",
+            "icon": "<i class=\"fa-solid fa-skull-crossbones\"></i>",
+            "shortDesc": "Appeal A Global Ban."
+        },
+        "questions": [
+            "Why Were You Banned?",
+            "What Date Were You Banned?",
+            "Did You Commit The Offense You Were Banned For?",
+            "Why Should The Punishment Be Removed. Please Include Any Evidence You Have."
+        ],
+        "descriptions": [
+            "50 Word Minimum",
+            "",
+            "",
+            ""
+        ],
+        "responses": {
+            "luulc69vcqqid": {
+                "user": ".jay2frr",
+                "date": "4/11/2024, 1:59:01 AM",
+                "status": "Accepted",
+                "discord": "1215140699700334622",
+                "customId": "luulc69vcqqid",
+                "responses": {
+                    "0": "I said the N word when i didnt know i was in game.",
+                    "1": "Idk",
+                    "2": "yes i said the n word but cause i was singing",
+                    "3": "Well i know that it's not right but i really didn't mean it if i knew i was in server i wouldn't have said it i was in a discord call with my bsf and we was playing music and singing "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi_.",
+                    "reviewerDiscord": "1124834999703720096",
+                    "reviewedOn": "4/11/2024, 6:06:29 PM",
+                    "reason": "n/a"
+                }
+            },
+            "luzbmc6g2jopm": {
+                "user": "pistonweston",
+                "date": "4/14/2024, 9:25:50 AM",
+                "status": "Denied",
+                "discord": "968277744003715172",
+                "customId": "luzbmc6g2jopm",
+                "responses": {
+                    "0": "I was banned for banning someone who posted hard r and f slur and also the saying had a racial organization in it.. ",
+                    "1": "4/13/24",
+                    "2": "Yes banning someone who posted hard r . If you want proof dm waddle",
+                    "3": "Why because I was following the rules as if hard r and f slur get gbanned and its appealable."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi_.",
+                    "reviewerDiscord": "1124834999703720096",
+                    "reviewedOn": "4/17/2024, 2:36:43 PM",
+                    "reason": "Not enough information."
+                }
+            },
+            "lv8ek2e743s8j": {
+                "user": "cryptic___.",
+                "date": "4/20/2024, 5:57:58 PM",
+                "status": "Accepted",
+                "discord": "1198374224155398155",
+                "customId": "lv8ek2e743s8j",
+                "responses": {
+                    "0": "You got the GB for talking about nuking the server",
+                    "1": "Saturday, 20 April",
+                    "2": "Some I did commit that was already delt with, some I did not commit.",
+                    "3": "\"I was very unprofessional by calling him a pedo. The reason I said it was because he called me a retard, and he was telling other staff members to fuck off. I still should not have commented back; I should have just ignored it. At the end of the day, it was my own fault, and I own up to my mistakes. Then I was on duty as staff, and there were no reports for about 30 - 40 minutes, and I decided to be nice and went into the bar asking for a whiskey. At the time, I did not know I could not role-play as staff since I am new to the staff team, and he got extremely mad at me and called staff. So I waited for staff, and the staff member came. He said, 'You cannot role-play as staff,' and I said I did not know, my apologies. He started kicking off again, and the staff member said, 'Just go in note clip,' so I did, waiting for reports in note clip next to the person. I did not say anything; I was eating food, and he started calling me a dickhead and saying my father left. But in the clips, he cut half of the clips out that he had sent to the staff member. I have staff members who witnessed him calling me a retard and telling staff to fuck off and him being extremely toxic within the game. An hour goes by, and I saw him in staff waiting, and I dragged him to staff voice 1, asking, 'What do you need help with?' He starts screaming down the mic and starts making weird noises, so I disconnected him, and he joined staff waiting again. So I gave him one last chance to tell me what he needs help with, and he starts screaming, 'Why did you disconnect me?' I kept saying, 'Why do you need staff?' and he kept screaming the same thing over and over. Another staff member witnessed it, and I disconnected him, but he kept joining staff waiting, and I kept trying to disconnect him, but he kept joining back, so I just left him there. I was on duty as staff after this whole situation, and there was someone looking to role-play with someone, so I said, 'I'll role-play with you.' So I went into staff RTO and said, 'I'm going off duty, have a nice day.' I turned my headtag off, but I forgot to go off duty; that was my mistake. I spoke to Polo and apologized, and he gave me a strike and went on with my night, had a couple of role-play scenarios, and went offline. I woke up the next morning, and my staff roles were gone, and it said I have been blacklisted. I made a ticket asking why I was blacklisted, and the person who was trolling us the night before made a staff report on me and showed clipped videos of what happened. Many staff members know what happened, and I was extremely angry because I did not get a say or get to tell my side of the story. I had clips, but I have deleted them now, and I have many staff members who could have vouched for me. I got a bit angry and said something I should not have said, and I said, 'What happens if I nuke the Discord server?' That was unprofessional and pathetic of me. This ain't no excuse, but at the time, I was not having a good day because today I found out my grandfather has passed away, and this, dealing with that, was overwhelming for me. I would never nuke the Discord server because someone has dedicated hard work into this server, and I know how much work it is to run a FiveM server due to me having one for three years, and I sold it to a new person due to having things going on with my life. I hope you can forgive me, and I hope I can get my staff roles back because I was grinding hours and trying to help people out, and because I left a very high position in another server to join this server. I will drop the names of some of the staff members that witnessed this.  Staff Members: John H, Clayton, Jayden.S, Polo  The Member Trolling: Not Wallie"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi.",
+                    "reviewerDiscord": "383621626652262404",
+                    "reviewedOn": "4/20/2024, 6:41:15 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lv8yktm0ikwbe": {
+                "user": "izzy13131",
+                "date": "4/21/2024, 3:18:26 AM",
+                "status": "Denied",
+                "discord": "1025810075161460758",
+                "customId": "lv8yktm0ikwbe",
+                "responses": {
+                    "0": "Doxxing ownership ",
+                    "1": "4/07/2024",
+                    "2": "doxxing ",
+                    "3": "i am sorry for what i did to soar i will never do something like that again to anyone he did not deserve that and i am sorry for what i have done the everyone in sasro i just want yall to know im sorry and i would like to be given a second chance in sasrp and its okay if i cant get that second chance inside of sasrp "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi.",
+                    "reviewerDiscord": "383621626652262404",
+                    "reviewedOn": "4/21/2024, 3:22:55 AM",
+                    "reason": "\"Never coming back\" -Soar"
+                }
+            },
+            "lvfiapsvq6ati": {
+                "user": "assaultzzzzzzzz",
+                "date": "4/25/2024, 5:17:04 PM",
+                "status": "Accepted",
+                "discord": "958505090631749642",
+                "customId": "lvfiapsvq6ati",
+                "responses": {
+                    "0": "For no fucking reason what so ever ",
+                    "1": "4/25/2024",
+                    "2": "i was banned for no reason what so ever.",
+                    "3": "I have never modded and i have never done anything wrong"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi.",
+                    "reviewerDiscord": "383621626652262404",
+                    "reviewedOn": "4/26/2024, 2:35:12 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lvjq68ok72fsh": {
+                "user": "michaelsaltaccount",
+                "date": "4/28/2024, 4:08:36 PM",
+                "status": "Accepted",
+                "discord": "1193372848434196490",
+                "customId": "lvjq68ok72fsh",
+                "responses": {
+                    "0": "I lined department high Command and John C. got mad at me and Blacklist me from staff and leo So I left and made a server transfer and got admin and second lut in leo then John c found out and I got global",
+                    "1": "I forgot but like 2 weeks ago or 1 week ago",
+                    "2": "Yes",
+                    "3": "I think I deserve a second Chance Because I have no more other servers to play on and Sasrp is my favorite server and I think I should get un banned because I deserve a second chance and I will never make the same mistake"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "sasroleplay",
+                    "reviewerDiscord": "813462995858489404",
+                    "reviewedOn": "4/29/2024, 6:39:50 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lvlavkeavyqx9": {
+                "user": "daniboi2x",
+                "date": "4/29/2024, 6:35:57 PM",
+                "status": "Accepted",
+                "discord": "1062140767063253022",
+                "customId": "lvlavkeavyqx9",
+                "responses": {
+                    "0": "owner wanted me to sing karaoke but i didnt want to so i got banned from discord",
+                    "1": "idk ",
+                    "2": "no",
+                    "3": "i was wronged my a lower class cartel member i was the 01 of a cartel and a lower rank wanted to be 01 so he framed me for doxxing when i never did i was a sheriff and the leader of a cartel i would me that stupid when the owner found out he said he wouldnt ban me if i sang karaoke but i didnt know the lyrcs so i said no and i got gbed."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "sasroleplay",
+                    "reviewerDiscord": "813462995858489404",
+                    "reviewedOn": "4/29/2024, 6:42:14 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lvmxvqp9u6053": {
+                "user": "assaultzzzzzzzz",
+                "date": "4/30/2024, 10:07:42 PM",
+                "status": "Denied",
+                "discord": "958505090631749642",
+                "customId": "lvmxvqp9u6053",
+                "responses": {
+                    "0": "I was banned for being annoying",
+                    "1": "4/30/24",
+                    "2": "The offense i commited was being annoying idk how",
+                    "3": "Because being annoying is not a good way to ban someone"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi.",
+                    "reviewerDiscord": "383621626652262404",
+                    "reviewedOn": "4/30/2024, 11:14:57 PM",
+                    "reason": "You were banned for being racist :thumbsup:"
+                }
+            },
+            "lvo7d5mc1ipvv": {
+                "user": "assaultzzzzzzzz",
+                "date": "5/1/2024, 7:20:57 PM",
+                "status": "Denied",
+                "discord": "958505090631749642",
+                "customId": "lvo7d5mc1ipvv",
+                "responses": {
+                    "0": "For the reason being annoying",
+                    "1": "4/30/24",
+                    "2": "The offense i commited was being annoying idk how",
+                    "3": "Because being annoying is not a good way to ban someone"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi.",
+                    "reviewerDiscord": "383621626652262404",
+                    "reviewedOn": "5/2/2024, 12:19:39 AM",
+                    "reason": "You were banned for being racist :thumbsup:"
+                }
+            },
+            "lw2vtiyt0hk3y": {
+                "user": "charlesoliverafan",
+                "date": "5/12/2024, 1:54:18 AM",
+                "status": "Accepted",
+                "discord": "698379939170222111",
+                "customId": "lw2vtiyt0hk3y",
+                "responses": {
+                    "0": "Calling YoYo the R slur",
+                    "1": "5/11/24",
+                    "2": "No",
+                    "3": "I know for a fact that I never called YoYo the R slur once at all, there is 0 Clip of me doing so and If there is I would love to see it. "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "patty.gg",
+                    "reviewerDiscord": "358449531660140544",
+                    "reviewedOn": "5/21/2024, 1:23:20 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lw2vwvdpsf3om": {
+                "user": "sirwalle",
+                "date": "5/12/2024, 1:56:54 AM",
+                "status": "Accepted",
+                "discord": "1088542309244731392",
+                "customId": "lw2vwvdpsf3om",
+                "responses": {
+                    "0": "Calling yoyo a \"retard\"",
+                    "1": "5/11/24",
+                    "2": "I don't think to to my understanding I might have said autisim or autistic but I didn't call him that and if I did I'm sorry cause Ik with disabilites and like them alot.",
+                    "3": "I mean I was trying to open up cert civ nobody is running it i was doing rp on the server and yea maybe I am a dickhead and shit but i wanted to better the server and I'm sorry if I said that I've had long talks with his mother and she knows I'm pretty understanding."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "patty.gg",
+                    "reviewerDiscord": "358449531660140544",
+                    "reviewedOn": "5/21/2024, 1:23:51 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lw5jbkt9k4mdh": {
+                "user": "kittykatjane",
+                "date": "5/13/2024, 10:27:44 PM",
+                "status": "Accepted",
+                "discord": "1173078305335951493",
+                "customId": "lw5jbkt9k4mdh",
+                "responses": {
+                    "0": "It seems I was banned for saying “kys.”",
+                    "1": "5/13/24",
+                    "2": "Yes, however I was unaware that this would cause issues.",
+                    "3": "Well, first of all because i sincerely apologize. It wasn’t directed at anybody in particular. If I remember the situation it was because someone had told me to stop skipping class. It was immature of me to say that and I sincerely do apologize from the bottom of my heart."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "patty.gg",
+                    "reviewerDiscord": "358449531660140544",
+                    "reviewedOn": "5/21/2024, 1:24:14 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lwcrfnfjpec0s": {
+                "user": "gims.1",
+                "date": "5/18/2024, 11:49:14 PM",
+                "status": "Accepted",
+                "discord": "1092054782887333929",
+                "customId": "lwcrfnfjpec0s",
+                "responses": {
+                    "0": "No Idea",
+                    "1": "5/18/2023",
+                    "2": "Nope",
+                    "3": "What happened was I had made a merge ticket, coming from SACRP. I asked if I could get donator roles and tron told me to send proof, I sent ss of the tebex recepits, he said this is SACRP then banned me, no idea how that gets me banned, I know its sacrp cus im transferring from there, the receipts r legit all more than 6 months old so how does that get me banned?"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "lewisb.1",
+                    "reviewerDiscord": "1078749473959837706",
+                    "reviewedOn": "5/19/2024, 12:08:13 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lwdw61hlxfg4y": {
+                "user": "gims.1",
+                "date": "5/19/2024, 6:49:30 PM",
+                "status": "Accepted",
+                "discord": "1092054782887333929",
+                "customId": "lwdw61hlxfg4y",
+                "responses": {
+                    "0": "I already made a unban appeal, been accepted",
+                    "1": "5/18/2024",
+                    "2": "no",
+                    "3": "I already made a un ban appeal which has been accepted, I am still banned from the discord, and cant inform anyone of this, could I please be unbanned. Discord username is gims.1"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "patty.gg",
+                    "reviewerDiscord": "358449531660140544",
+                    "reviewedOn": "5/21/2024, 1:25:39 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lwx42xho01x5g": {
+                "user": "eteb2007",
+                "date": "6/2/2024, 5:38:39 AM",
+                "status": "Denied",
+                "discord": "970434280914305094",
+                "customId": "lwx42xho01x5g",
+                "responses": {
+                    "0": "Unknown ",
+                    "1": "unknown",
+                    "2": "Not to my knowledge, i was never banned on the actual fivem server but on discord i was for a reason i dont know ",
+                    "3": "I believe i should be unbanned on the discord server due to being not banned on the fivem server demonstrating that i didnt do anything,. In which if i did   i wouldve been banned on both the fivem server and discord. As well as i do acting in school for  plays such as  shakespier which can elevate the roleplay to another level making it realistic."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": ".calirpk.",
+                    "reviewerDiscord": "1198105127572217918",
+                    "reviewedOn": "6/2/2024, 11:58:31 PM",
+                    "reason": "Tron Management told me to deny this "
+                }
+            },
+            "lwzdogfri5lz1": {
+                "user": "thatguyjack992",
+                "date": "6/3/2024, 7:42:52 PM",
+                "status": "Accepted",
+                "discord": "783239301882314763",
+                "customId": "lwzdogfri5lz1",
+                "responses": {
+                    "0": "\" Say the Hard R\" ",
+                    "1": "06/03/2024",
+                    "2": "No",
+                    "3": "Becues I got speak iusse and it make sound like I was say the \" Hard R"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:54:11 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lwzdoutn7ggp7": {
+                "user": "thatguyjack992",
+                "date": "6/3/2024, 7:43:11 PM",
+                "status": "Accepted",
+                "discord": "783239301882314763",
+                "customId": "lwzdoutn7ggp7",
+                "responses": {
+                    "0": "\" Say the Hard R\" ",
+                    "1": "06/03/2024",
+                    "2": "No",
+                    "3": "Becues I got speak iusse and it make sound like I was say the \" Hard R\" And I was a Admin in there."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:54:05 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lx530kc35dfhd": {
+                "user": "nighthawk312",
+                "date": "6/7/2024, 8:30:59 PM",
+                "status": "Accepted",
+                "discord": "543897517566459944",
+                "customId": "lx530kc35dfhd",
+                "responses": {
+                    "0": "For being a neo nazi :/",
+                    "1": "22/05/2024",
+                    "2": "not real it was a meme on his PC for jokes ",
+                    "3": "He saw a meme on his PC which had a nazi flag on it (this is for my friend Ghost and his discord ID is : 1248719646945837098"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:53:50 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lx5tmu6xl2ei0": {
+                "user": "frelcle",
+                "date": "6/8/2024, 8:56:08 AM",
+                "status": "Denied",
+                "discord": "944307360359391352",
+                "customId": "lx5tmu6xl2ei0",
+                "responses": {
+                    "0": "Apparently i was dual clanning, when i made a ticket asking what i should do and all. And the server gave me roles already for no reason and someone saw it so i got banned",
+                    "1": "i think 29/05/2024, or close to that",
+                    "2": "I mean 50/50 but i would say yes, but i still kinda didnt want the roles in the server.",
+                    "3": "I got proof but i cant send here. Anyways i think it should be removed as its kinda not my fault and kinda is by joining the server for a look. I wanted to leave it but yh, just didnt have time to and i did ask to remove the roles for now through vc."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:50:06 AM",
+                    "reason": "Dual Clanning/Show us proof you're not in any other Servers."
+                }
+            },
+            "lx5tmvtiizwyq": {
+                "user": "frelcle",
+                "date": "6/8/2024, 8:56:10 AM",
+                "status": "Denied",
+                "discord": "944307360359391352",
+                "customId": "lx5tmvtiizwyq",
+                "responses": {
+                    "0": "Apparently i was dual clanning, when i made a ticket asking what i should do and all. And the server gave me roles already for no reason and someone saw it so i got banned",
+                    "1": "i think 29/05/2024, or close to that",
+                    "2": "I mean 50/50 but i would say yes, but i still kinda didnt want the roles in the server.",
+                    "3": "I got proof but i cant send here. Anyways i think it should be removed as its kinda not my fault and kinda is by joining the server for a look. I wanted to leave it but yh, just didnt have time to and i did ask to remove the roles for now through vc."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:47:22 AM",
+                    "reason": "Daul Clanning/Show us you're not in any other FiveM Server."
+                }
+            },
+            "lxodd4h31o56v": {
+                "user": "michaelsaltaccount",
+                "date": "6/21/2024, 7:28:18 AM",
+                "status": "Denied",
+                "discord": "1193372848434196490",
+                "customId": "lxodd4h31o56v",
+                "responses": {
+                    "0": "I was banned for dual clanning and making my own server",
+                    "1": "Fri June 27 2024",
+                    "2": "Yes",
+                    "3": "I think I deserve a second Chance Because I have no more other servers to play on and Sasrp is my favorite server and I think I should get un banned because I deserve a second chance and I will never make the same mistake"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/21/2024, 10:45:30 PM",
+                    "reason": "Wrong Banned Date"
+                }
+            },
+            "lxpnhb83h7g9r": {
+                "user": "trxv2489",
+                "date": "6/22/2024, 4:59:16 AM",
+                "status": "Denied",
+                "discord": "911278441150697474",
+                "customId": "lxpnhb83h7g9r",
+                "responses": {
+                    "0": "Mass Rdm",
+                    "1": "6/21/24 around 11:50pm",
+                    "2": "No, i did not mass rdm, i was in a pd scene killing cops inside my car, getting chased and what not, i roll back to see what happened and one of the guys go, thats the guy who killed him, i get shot at i kill about 6 to 7 other LEO members, i roll away and spin back, kill another one and i get banned, i have all the clips.",
+                    "3": "My ban should be removed because i didn't mass rdm it was simply a PD scene, if they wanted to 22 it, they could had said so."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:45:13 AM",
+                    "reason": "We have proof of Mass RDM"
+                }
+            },
+            "lxvjgdf1nihp1": {
+                "user": "v1ltr3k",
+                "date": "6/26/2024, 7:53:11 AM",
+                "status": "Accepted",
+                "discord": "924044929121022013",
+                "customId": "lxvjgdf1nihp1",
+                "responses": {
+                    "0": "someone said the f slur and i got blamed for it.",
+                    "1": "026-06-2024",
+                    "2": "no i didnt i got blamed for it and all the mods were positiveit was me",
+                    "3": "i got told i was gonna be unbanned if i appealed but the rteason is bc it was an false ban and i never said the f slur"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "6/26/2024, 10:13:42 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lxvji5ad7392y": {
+                "user": "plactrix",
+                "date": "6/26/2024, 7:54:33 AM",
+                "status": "Accepted",
+                "discord": "410584601996820483",
+                "customId": "lxvji5ad7392y",
+                "responses": {
+                    "0": "asdf",
+                    "1": "asdf",
+                    "2": "asdf",
+                    "3": "asdf"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "plactrix",
+                    "reviewerDiscord": "410584601996820483",
+                    "reviewedOn": "6/26/2024, 7:55:31 AM",
+                    "reason": "n/a"
+                }
+            },
+            "ly1nvqoejokrv": {
+                "user": "boyboy123",
+                "date": "6/30/2024, 2:43:43 PM",
+                "status": "Accepted",
+                "discord": "1040057129916174377",
+                "customId": "ly1nvqoejokrv",
+                "responses": {
+                    "0": "Threatenting to leak sast/leo cad code when i didnt evan i just said if i wanted to i could leak it and boom 1 week ban went to global but i wasnt evan gonna leak which is why i said i could but not gonna.",
+                    "1": "15/06/2024  (i think i forgot sorry)",
+                    "2": "Yes.",
+                    "3": "I did say \"i could but not gonna\" which shows i am not gonna leak but i could"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "7/1/2024, 1:09:17 AM",
+                    "reason": "n/a"
+                }
+            },
+            "ly37ptqfq7xfm": {
+                "user": "smokey.bandit2017",
+                "date": "7/1/2024, 4:46:46 PM",
+                "status": "Denied",
+                "discord": "1172646053523234838",
+                "customId": "ly37ptqfq7xfm",
+                "responses": {
+                    "0": "IDK",
+                    "1": "IDK",
+                    "2": "NO",
+                    "3": "Because I never did anything wrong I was banned for dumb reasons if I did something wrong I am super truly sorry for all my actions"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "nourfc",
+                    "reviewerDiscord": "831970535851819019",
+                    "reviewedOn": "7/2/2024, 2:09:51 PM",
+                    "reason": "no reason "
+                }
+            },
+            "ly54xd7ejbcum": {
+                "user": "thatmfp3tr",
+                "date": "7/3/2024, 1:04:11 AM",
+                "status": "Accepted",
+                "discord": "1093286980357464154",
+                "customId": "ly54xd7ejbcum",
+                "responses": {
+                    "0": "Mass VDM.",
+                    "1": "7/1",
+                    "2": "No, I was in the right-hand passenger seat that hit staff, in the middle of a staff scene.",
+                    "3": "So, I was falsely banned as i wasn't the driver of the vechical i was on the Right side as the passanger. And i was a staff member previously before the ban and now i losted that due to something i didnt do."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "7/3/2024, 3:25:59 AM",
+                    "reason": "n/a"
+                }
+            },
+            "ly7yy6aum5nfu": {
+                "user": "moose653",
+                "date": "7/5/2024, 12:40:10 AM",
+                "status": "Accepted",
+                "discord": "1200376258048040973",
+                "customId": "ly7yy6aum5nfu",
+                "responses": {
+                    "0": "rdm x1",
+                    "1": "07/04/24",
+                    "2": "yes",
+                    "3": "this punishment should go away because i did rdm the cop but he vdm me 2 times also the /calladmin dosent work so i cant call for a staff member and then he perm bans me his name is kay j and he isnt in the staff discord and also he perm banned me for rdm x1 but its 300 sec jail also he didnt log it "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "nourfc",
+                    "reviewerDiscord": "831970535851819019",
+                    "reviewedOn": "7/5/2024, 1:56:51 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lyc81s52ap0bp": {
+                "user": "thatguykayden.18",
+                "date": "7/8/2024, 12:05:59 AM",
+                "status": "Denied",
+                "discord": "1160333067085434994",
+                "customId": "lyc81s52ap0bp",
+                "responses": {
+                    "0": "Multiple Issues thats all it says ",
+                    "1": "3 days ago ",
+                    "2": "NO ",
+                    "3": "there no proof and i want to come back "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "9000",
+                    "reviewerDiscord": "232937189971984394",
+                    "reviewedOn": "7/8/2024, 5:52:19 PM",
+                    "reason": "Please provide proof as to why you should be unbanned."
+                }
+            },
+            "lye641n45roeq": {
+                "user": "discoardmaker",
+                "date": "7/9/2024, 8:47:18 AM",
+                "status": "Accepted",
+                "discord": "922968651429203988",
+                "customId": "lye641n45roeq",
+                "responses": {
+                    "0": "for Do better because I was in a other server when I was still transfering and getting settup and was leaving the servers",
+                    "1": "07/07/24",
+                    "2": "Dual Clanning",
+                    "3": "I was still transfering and I was leaving those servers when i was done"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "7/10/2024, 2:43:35 AM",
+                    "reason": "n/a"
+                }
+            },
+            "lyhtqdgqiwuuo": {
+                "user": "discoardmaker",
+                "date": "7/11/2024, 10:11:49 PM",
+                "status": "Denied",
+                "discord": "922968651429203988",
+                "customId": "lyhtqdgqiwuuo",
+                "responses": {
+                    "0": "for Do better because I was in a other server when I was still transfering and getting settup and was leaving the servers",
+                    "1": "07/07/24",
+                    "2": "Dual Clanning",
+                    "3": "I was still transfering and I was leaving those servers when i was done"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "7/11/2024, 10:36:50 PM",
+                    "reason": "DM mountain001 and we can talk more about this, however this is a copy and paste of your other appeal."
+                }
+            },
+            "lyhuo07lzmryk": {
+                "user": "showtimeeeeee",
+                "date": "7/11/2024, 10:37:58 PM",
+                "status": "Accepted",
+                "discord": "726933919517114469",
+                "customId": "lyhuo07lzmryk",
+                "responses": {
+                    "0": "I was banned for saying the F slur and doing something to the Gangs Discord. I regret doing everything I did in the server. This is everything that I know I got banned for and I'm not sure if there's more. But I really do sincerely apologize for my actions.",
+                    "1": "6/12/2024",
+                    "2": "Yes, I did.",
+                    "3": "I think I should be allowed back on SASRP because I regret everything I did to SASRP.I feel like my actions that I did defines me. I understand that not everyone likes me, but I’m determined to change that. I know I made mistakes, but I’ve learned from them and am ready to prove myself. I currently don't have any evidence of my ban. But I can assure you that everything I did will never happen again."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "mountain001",
+                    "reviewerDiscord": "1088262196091441162",
+                    "reviewedOn": "7/12/2024, 3:30:03 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lyn833geenyvy": {
+                "user": "b20413",
+                "date": "7/15/2024, 4:52:28 PM",
+                "status": "Accepted",
+                "discord": "1194449480154620065",
+                "customId": "lyn833geenyvy",
+                "responses": {
+                    "0": "I don't know why I was banned I think it's unfair so I was in here like a while ago like across me 6 months ago and I was just wondering why I was being and I don't think it's fair because I did nothing wrong",
+                    "1": "I dont know",
+                    "2": "No i don't even know what i was banned for ",
+                    "3": "no i was randomly banned "
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "2_money",
+                    "reviewerDiscord": "866650209501052998",
+                    "reviewedOn": "7/16/2024, 1:16:57 PM",
+                    "reason": "n/a"
+                }
+            },
+            "lzc4eht44iv3y": {
+                "user": "000007._",
+                "date": "8/2/2024, 3:03:36 AM",
+                "status": "Denied",
+                "discord": "799094797054771200",
+                "customId": "lzc4eht44iv3y",
+                "responses": {
+                    "0": "Banned for playing with a  modder ",
+                    "1": "07/31/24",
+                    "2": "No",
+                    "3": "Cause i didnt know the person"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/2/2024, 2:59:48 PM",
+                    "reason": "Ban not appealable"
+                }
+            },
+            "lzetbigcfxprl": {
+                "user": "324.k",
+                "date": "8/4/2024, 12:16:40 AM",
+                "status": "Denied",
+                "discord": "1188945485185167404",
+                "customId": "lzetbigcfxprl",
+                "responses": {
+                    "0": "No clue",
+                    "1": "8/01/24",
+                    "2": "No.",
+                    "3": "I was banned without any warning of why I was being global banned. Also I was a Admin within SASRP."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/4/2024, 1:56:19 AM",
+                    "reason": "Not appealable."
+                }
+            },
+            "m01b5m78v4bw4": {
+                "user": "jordan1._._",
+                "date": "8/19/2024, 6:06:54 PM",
+                "status": "Accepted",
+                "discord": "765610237582639184",
+                "customId": "m01b5m78v4bw4",
+                "responses": {
+                    "0": "Bringing politics to general chat",
+                    "1": "13/07/24",
+                    "2": "Yes.",
+                    "3": "I did not have the intention of bringing politics I was just making a joke and was not aware that it was against the rule."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/19/2024, 7:26:51 PM",
+                    "reason": "n/a"
+                }
+            },
+            "m037g0hxyp1mw": {
+                "user": "whosnature",
+                "date": "8/21/2024, 1:58:33 AM",
+                "status": "Denied",
+                "discord": "259835416952307712",
+                "customId": "m037g0hxyp1mw",
+                "responses": {
+                    "0": "I was banned for failrp. This is because I was messing around in the game before it happened and the staff kept targeting me for little offenses, it got to the point where I was tired of it and I started a drag race rp. Then when I did the drag race I respawned my car and immediately a staff dropped down on me and jailed me for 600 seconds for failrp. Then 3 seconds later I got global banned.",
+                    "1": "8/18/2024",
+                    "2": "Yes",
+                    "3": "It should be removed because the staff were targeting me in the game, I don't have any evidence but every staff was watching over me and waiting until I did something wrong to ban me."
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "slr693",
+                    "reviewerDiscord": "342018247094435872",
+                    "reviewedOn": "8/21/2024, 1:26:32 PM",
+                    "reason": "Lies."
+                }
+            },
+            "m0czrdp0cfq9z": {
+                "user": "klx_zay",
+                "date": "8/27/2024, 10:21:08 PM",
+                "status": "Denied",
+                "discord": "943280975234883647",
+                "customId": "m0czrdp0cfq9z",
+                "responses": {
+                    "0": "No idea no warning ",
+                    "1": "8/25 or 8/24",
+                    "2": "I have no clue what I did for them to ban me",
+                    "3": "Because I was not warned and was not told what I did"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "grimreaper10",
+                    "reviewerDiscord": "531543900389769226",
+                    "reviewedOn": "8/28/2024, 7:55:27 AM",
+                    "reason": "We don’t allow people who poach from our server in SASRP"
+                }
+            },
+            "m3gopf3hv60y2": {
+                "user": "curtis_rhoades2",
+                "date": "11/13/2024, 8:21:52 PM",
+                "status": "Pending",
+                "discord": "1253085726858547344",
+                "customId": "m3gopf3hv60y2",
+                "responses": {
+                    "0": "I have no clue been banned every since Shaddey was the owner",
+                    "1": "unknown, I think like a year ago",
+                    "2": "I dont know when ever shaddey got mad and banned half of the server",
+                    "3": "because I was never unbanned and I really want to play again.."
+                },
+                "reviewedBy": {}
+            }
+        }
+    },
+    "Blacklist": {
+        "info": {
+            "name": "Blacklist",
+            "icon": "<i class=\"fa-solid fa-ban\"></i>",
+            "shortDesc": "Appeal A Blacklist."
+        },
+        "questions": [
+            "Department you were blacklisted from:",
+            "Member who issued the blacklist:",
+            "Reason for the blacklist:",
+            "Grounds for Appeal (Why should it be overturned):",
+            "Do you know the case against you (have you seen the evidence)?",
+            "Have you requested reasons for your discipline (if yes, please paste them as a reply to this appeal):",
+            "Do you understand that it may take 72 to 96 hours for department staff to review the appeal?"
+        ],
+        "descriptions": [
+            "",
+            "",
+            "50 Word Minimum",
+            "50 Word Minimum",
+            "",
+            "",
+            ""
+        ],
+        "responses": {
+            "lv6qexn5pti6e": {
+                "user": "d.mc24",
+                "date": "4/19/2024, 1:54:22 PM",
+                "status": "Denied",
+                "discord": "1072209008267632660",
+                "customId": "lv6qexn5pti6e",
+                "responses": {
+                    "0": "Staff",
+                    "1": "Unsure",
+                    "2": "Distrespect ",
+                    "3": "Already spoken about in a ticket with polo and more ",
+                    "4": "No I haven’t ",
+                    "5": "No ",
+                    "6": "Yes"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "skyboi_.",
+                    "reviewerDiscord": "1124834999703720096",
+                    "reviewedOn": "4/19/2024, 2:35:06 PM",
+                    "reason": "Not enough information."
+                }
+            },
+            "lvstqt7pi5m6y": {
+                "user": "d.mc24",
+                "date": "5/5/2024, 12:58:31 AM",
+                "status": "Accepted",
+                "discord": "1072209008267632660",
+                "customId": "lvstqt7pi5m6y",
+                "responses": {
+                    "0": "staff",
+                    "1": "unsure",
+                    "2": "103 says for global ping to all leo, but thats not the reason, the reason is that i was lagging in game and i distrespaected staff and i got blacklisted",
+                    "3": "im willing to put in the har work and time to gain my ground back, i will do evrything in my power to turn the tables and show that i can reall make a big impact on this server",
+                    "4": "NOPE",
+                    "5": "nope",
+                    "6": "YES"
+                },
+                "reviewedBy": {},
+                "review": {
+                    "reviewer": "timothhyy.",
+                    "reviewerDiscord": "949068043936477256",
+                    "reviewedOn": "6/25/2024, 5:55:22 AM",
+                    "reason": "n/a"
+                }
+            },
+            "m3ae58omoojgu": {
+                "user": "etmasx",
+                "date": "11/9/2024, 10:39:38 AM",
+                "status": "Pending",
+                "discord": "1243914800719986688",
+                "customId": "m3ae58omoojgu",
+                "responses": {
+                    "0": "Public Officer",
+                    "1": "Charles Q. Brown Jr.",
+                    "2": "no reason that i know.",
+                    "3": "because i didn't do anything wrong!",
+                    "4": "nope.",
+                    "5": "none at all.",
+                    "6": "yes i understand that."
+                },
+                "reviewedBy": {}
+            }
+        }
+    }
+}
